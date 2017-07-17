@@ -9,6 +9,7 @@
 
 # 관련뉴스 (최신순)
 
+- [http://blog.naver.com/primebase/221045403352](): 리플의 오해와 진실
 - [http://www.livebitcoinnews.com/ripple-consensus-ledger-can-used-host-icos/](): 리플도 이더리움처럼 Ripple Consensus Ledger(리플 컨센서스 원장)을 사용하여 ICO를 주최할 수 있습니다.
 - [http://albawang.tistory.com/81](): 리플이란 무엇일까?
 - [https://steemit.com/kr/@k2love/xrp-6](): 「기고문 해석」 XRP 관한 6가지 루머
