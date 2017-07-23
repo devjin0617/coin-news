@@ -9,6 +9,10 @@
 
 # 관련뉴스 (최신순)
 
+- [https://steemit.com/kr/@k2love/xrp-paypal](): XRP는 Paypal이 아니다
+- [http://www.newswire.co.kr/newsRead.php?no=811234](): KB국민은행, 핀테크 기업 ‘코인플러그’와 MOU 체결
+  - 2015년 12월 1일 자료 => 이미 KB국민은행은 블록체인관련하여 미리 준비중이였다는 자료입니다.
+- [http://m.ekn.kr/section_view.html?no=301475#_enliple](): 한-일 합작 핀테크기업 SBI코스머니, 국내 해외송금시장 진출
 - [http://blog.naver.com/primebase/221045403352](): 리플의 오해와 진실
 - [http://www.livebitcoinnews.com/ripple-consensus-ledger-can-used-host-icos/](): 리플도 이더리움처럼 Ripple Consensus Ledger(리플 컨센서스 원장)을 사용하여 ICO를 주최할 수 있습니다.
 - [http://albawang.tistory.com/81](): 리플이란 무엇일까?
