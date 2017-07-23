@@ -7,6 +7,7 @@
 - 공식홈페이지: https://ripple.com/
 - 대체지갑사이트(Gatehub): https://signin.gatehub.net
 - 리플 노드 전체현황: https://xrpcharts.ripple.com/#/topology
+- awesome-ripple: https://github.com/vhpoet/awesome-ripple
 
 # 관련뉴스 (최신순)
 
