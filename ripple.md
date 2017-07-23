@@ -8,6 +8,7 @@
 - 대체지갑사이트(Gatehub): https://signin.gatehub.net
 - 리플 노드 전체현황: https://xrpcharts.ripple.com/#/topology
 - awesome-ripple: https://github.com/vhpoet/awesome-ripple
+- 거래소별 리플 볼륨: https://www.coinhills.com/market/exchange/rank-for/xrp/
 
 # 관련뉴스 (최신순)
 
