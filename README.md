@@ -2,6 +2,13 @@
 
 코인/가상화폐와 관련된 정보를 수집하고 있습니다.
 
+# 정보바로가기
+
+- [리플](https://github.com/devjin0617/coin-news/blob/master/ripple.md)
+- [비트코인](https://github.com/devjin0617/coin-news/blob/master/bitcoin.md)
+- [이더리움](https://github.com/devjin0617/coin-news/blob/master/ethereum.md)
+- [라이트코인](https://github.com/devjin0617/coin-news/blob/master/litecoin.md)
+
 # 거래소(exchange, 去來所)
 
 ## 해외
