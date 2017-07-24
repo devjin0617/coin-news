@@ -20,3 +20,4 @@
 # 코인뉴스/정보
 - 코인썸(coinsum): [http://coinsum.io](http://coinsum.io)
 - 시세사이트+크롬확장프로그램(luka7): [http://luka7.net/](http://luka7.net/)
+- 코인분석사이트: [https://coin.dance/](https://coin.dance/)
