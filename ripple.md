@@ -12,6 +12,7 @@
 
 # 관련뉴스 (최신순)
 
+- [https://steemit.com/ripple/@k2love/x4mud-ripple](): 리플(Ripple)이 참여하는 단체
 - [https://steemit.com/kr/@k2love/xrp-paypal](): XRP는 Paypal이 아니다
 - [http://www.newswire.co.kr/newsRead.php?no=811234](): KB국민은행, 핀테크 기업 ‘코인플러그’와 MOU 체결
   - 2015년 12월 1일 자료 => 이미 KB국민은행은 블록체인관련하여 미리 준비중이였다는 자료입니다.
