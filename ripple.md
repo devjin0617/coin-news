@@ -12,20 +12,20 @@
 
 # 관련뉴스 (최신순)
 
-- [http://blog.naver.com/ko0575/221059166592](): 카카오뱅크의 리플을 활용한 송금시스템 (찌라시)
-- [https://steemit.com/ripple/@k2love/6nqs62](): 가치의 인터넷: 무엇을 의미하고 어떤 혜택을 주는가?
-- [https://steemit.com/ripple/@k2love/x4mud-ripple](): 리플(Ripple)이 참여하는 단체
-- [https://steemit.com/kr/@k2love/xrp-paypal](): XRP는 Paypal이 아니다
-- [http://www.newswire.co.kr/newsRead.php?no=811234](): KB국민은행, 핀테크 기업 ‘코인플러그’와 MOU 체결
+- [http://blog.naver.com/ko0575/221059166592]: 카카오뱅크의 리플을 활용한 송금시스템 (찌라시)
+- [https://steemit.com/ripple/@k2love/6nqs62]: 가치의 인터넷: 무엇을 의미하고 어떤 혜택을 주는가?
+- [https://steemit.com/ripple/@k2love/x4mud-ripple]: 리플(Ripple)이 참여하는 단체
+- [https://steemit.com/kr/@k2love/xrp-paypal]: XRP는 Paypal이 아니다
+- [http://www.newswire.co.kr/newsRead.php?no=811234]: KB국민은행, 핀테크 기업 ‘코인플러그’와 MOU 체결
   - 2015년 12월 1일 자료 => 이미 KB국민은행은 블록체인관련하여 미리 준비중이였다는 자료입니다.
-- [http://m.ekn.kr/section_view.html?no=301475#_enliple](): 한-일 합작 핀테크기업 SBI코스머니, 국내 해외송금시장 진출
-- [http://blog.naver.com/primebase/221045403352](): 리플의 오해와 진실
-- [http://www.livebitcoinnews.com/ripple-consensus-ledger-can-used-host-icos/](): 리플도 이더리움처럼 Ripple Consensus Ledger(리플 컨센서스 원장)을 사용하여 ICO를 주최할 수 있습니다.
-- [http://albawang.tistory.com/81](): 리플이란 무엇일까?
-- [https://steemit.com/kr/@k2love/xrp-6](): 「기고문 해석」 XRP 관한 6가지 루머
-- [http://www.bitguru.co.uk/news/bank-of-england-test-ripple-xrp-for-cross-border-payments](): 국격간 전송을 위한 잉글랜드 은행에서 리플로 테스트를 진행했습니다. 현금흐름의 '동기화'를 지원하는 새로운기능을 도입할 계획을 발표한 후 개념 증명을 테스트하기 위해 Interledger Protocol을 도입, 테스트했습니다.
-- [http://www.huffingtonpost.com/entry/ripple-and-xrp-are-more-stable-than-you-think_us_591cb3bee4b0b28a33f62915](): 리플은 생각보다 안정적입니다. 은행대상으로 만들어졌고, 정부와 기업을 대상으로 만들어진 가상화폐입니다. 리플의 전송속도는 정말 빠릅니다.
-- [https://steemit.com/kr/@k2love/escrow-550-xrp-ripple](): 디지털자산 시장에서 리플이 달성하고자 하는 목표는 기축통화로의 성장입니다.
+- [http://m.ekn.kr/section_view.html?no=301475#_enliple]: 한-일 합작 핀테크기업 SBI코스머니, 국내 해외송금시장 진출
+- [http://blog.naver.com/primebase/221045403352]: 리플의 오해와 진실
+- [http://www.livebitcoinnews.com/ripple-consensus-ledger-can-used-host-icos/]: 리플도 이더리움처럼 Ripple Consensus Ledger(리플 컨센서스 원장)을 사용하여 ICO를 주최할 수 있습니다.
+- [http://albawang.tistory.com/81]: 리플이란 무엇일까?
+- [https://steemit.com/kr/@k2love/xrp-6]: 「기고문 해석」 XRP 관한 6가지 루머
+- [http://www.bitguru.co.uk/news/bank-of-england-test-ripple-xrp-for-cross-border-payments]: 국격간 전송을 위한 잉글랜드 은행에서 리플로 테스트를 진행했습니다. 현금흐름의 '동기화'를 지원하는 새로운기능을 도입할 계획을 발표한 후 개념 증명을 테스트하기 위해 Interledger Protocol을 도입, 테스트했습니다.
+- [http://www.huffingtonpost.com/entry/ripple-and-xrp-are-more-stable-than-you-think_us_591cb3bee4b0b28a33f62915]: 리플은 생각보다 안정적입니다. 은행대상으로 만들어졌고, 정부와 기업을 대상으로 만들어진 가상화폐입니다. 리플의 전송속도는 정말 빠릅니다.
+- [https://steemit.com/kr/@k2love/escrow-550-xrp-ripple]: 디지털자산 시장에서 리플이 달성하고자 하는 목표는 기축통화로의 성장입니다.
 
 # 설명모음
 
