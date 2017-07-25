@@ -8,7 +8,8 @@
 
 # 관련뉴스 (최신순)
 
-- [https://m.cafe.naver.com/seoulbitcoin/683](): 비트코인 세그윗 소프트포크 업데이트 성공
-- [https://steemit.com/coinkorea/@coinkorea/bip91-segwit](): 비트코인 BIP91(SegWit) 락인(확정) 완료, 앞으로 예상되는 일정은?
-- [https://steemit.com/coinkorea/@coinkorea/segwit2x-uasf-uahf](): 현재 비트코인 SegWit2x, UASF, UAHF 진행 구도
-- [https://steemit.com/kr/@twinbraid/8-1](): 8월1일에 일어날 일이 왜 코인값을 떨구는가
+- https://steemit.com/bitcoin/@leapforfly/5n9aob: 비트코인과 가상화폐 시가총액 연계 분석을 통한 기술적 매매 전략
+- https://m.cafe.naver.com/seoulbitcoin/683: 비트코인 세그윗 소프트포크 업데이트 성공
+- https://steemit.com/coinkorea/@coinkorea/bip91-segwit: 비트코인 BIP91(SegWit) 락인(확정) 완료, 앞으로 예상되는 일정은?
+- https://steemit.com/coinkorea/@coinkorea/segwit2x-uasf-uahf: 현재 비트코인 SegWit2x, UASF, UAHF 진행 구도
+- https://steemit.com/kr/@twinbraid/8-1: 8월1일에 일어날 일이 왜 코인값을 떨구는가
