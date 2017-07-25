@@ -12,6 +12,7 @@
 
 # 관련뉴스 (최신순)
 
+- [http://blog.naver.com/ko0575/221059166592](): 카카오뱅크의 리플을 활용한 송금시스템 (찌라시)
 - [https://steemit.com/ripple/@k2love/6nqs62](): 가치의 인터넷: 무엇을 의미하고 어떤 혜택을 주는가?
 - [https://steemit.com/ripple/@k2love/x4mud-ripple](): 리플(Ripple)이 참여하는 단체
 - [https://steemit.com/kr/@k2love/xrp-paypal](): XRP는 Paypal이 아니다
