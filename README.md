@@ -28,3 +28,4 @@
 - 코인썸(coinsum): [http://coinsum.io](http://coinsum.io)
 - 시세사이트+크롬확장프로그램(luka7): [http://luka7.net/](http://luka7.net/)
 - 코인분석사이트: [https://coin.dance/](https://coin.dance/)
+- 미연방 준비위원회!! 달러화의 비밀?: [https://github.com/devjin0617/coin-news/blob/master/contents/001.md](https://github.com/devjin0617/coin-news/blob/master/contents/001.md)
