@@ -1,1 +1,1 @@
-
+- 2017.07.25. https://news.bitcoin.com/litecoin-atms-proliferate-globally/
