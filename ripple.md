@@ -12,6 +12,7 @@
 
 # 관련뉴스 (최신순)
 
+- http://www.sbigroup.co.jp/news/2017/0727_10743.html: 러시아의 상업은행 "YAR Bank"의 완전 자회사화에 관한 소식
 - http://www.dutchcoffee.com/bbs/board.php?bo_table=EVENT&wr_id=4: 국내 최초 더치커피 리플 구입 쇼핑몰
 - http://blog.naver.com/ko0575/221059166592: 카카오뱅크의 리플을 활용한 송금시스템 (찌라시)
 - https://steemit.com/ripple/@k2love/6nqs62: 가치의 인터넷: 무엇을 의미하고 어떤 혜택을 주는가?
