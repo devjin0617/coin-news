@@ -12,6 +12,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- 2017.07.31. http://band.us/band/66405633/post/630: '리플 (XRP)'의 미래는 밝다? 거래의 70 % 이상이 한국에서..
 - 2017.07.28. http://www.sbigroup.co.jp/news/2017/0727_10743.html: 러시아의 상업은행 "YAR Bank"의 완전 자회사화에 관한 소식
 - 2017.07.18. http://www.dutchcoffee.com/bbs/board.php?bo_table=EVENT&wr_id=4: 국내 최초 더치커피 리플 구입 쇼핑몰
 - 2017.07.25. http://blog.naver.com/ko0575/221059166592: 카카오뱅크의 리플을 활용한 송금시스템 (찌라시)
