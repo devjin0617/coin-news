@@ -25,6 +25,7 @@
 
 
 # 코인뉴스/정보
+- 가상통화 법률안 내용: [http://coingall.com/index.php?mid=coin&document_srl=145471](http://coingall.com/index.php?mid=coin&document_srl=145471)
 - 코인썸(coinsum): [http://coinsum.io](http://coinsum.io)
 - 시세사이트+크롬확장프로그램(luka7): [http://luka7.net/](http://luka7.net/)
 - 코인분석사이트: [https://coin.dance/](https://coin.dance/)
