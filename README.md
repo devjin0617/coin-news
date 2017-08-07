@@ -25,6 +25,7 @@
 
 
 # 코인뉴스/정보
+- 국내 최초 코인뉴스(오늘의 코인, 아시아경제TV): [https://youtu.be/ViXFeVaMgiY](https://youtu.be/ViXFeVaMgiY)
 - 가상통화 법률안 내용: [http://coingall.com/index.php?mid=coin&document_srl=145471](http://coingall.com/index.php?mid=coin&document_srl=145471)
 - 코인썸(coinsum): [http://coinsum.io](http://coinsum.io)
 - 시세사이트+크롬확장프로그램(luka7): [http://luka7.net/](http://luka7.net/)
