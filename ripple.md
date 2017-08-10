@@ -14,7 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
-
+- 2017.08.11. https://mobile.twitter.com/emy_wng/status/895737169884479488: 본격적으로 중국진출을 위한 채용공고 진행
 - 2017.08.07. http://cryptocurrencymagazine.com/?p=12989: DASH를 사용할 수 DASH PAY CARD가 48 개국에서 8 월말에 출시, DASH 리플 게이트웨이에 추가됩니다 GATEHUB에서 이용 가능
 - 2016.09.15. https://www.sc.com/en/news-and-media/news/global/2016-09-15-standard-chartered-completes-strategic-investment-in-ripple.html: (2016년자료) 스탠다드 차타드, 리플에 전략적 투자 완료.
   > 스탠다드 차타드 거래 뱅킹 (Transaction Banking)의 알렉스 맨슨 (Alex Manson) 글로벌 헤드는 "디지털화는 은행이 무역, 상업 및 투자를 촉진하는 데있어서 최우선 과제이다. 보다 효율적인 방식으로 비즈니스 커뮤니티를 연결함으로써 고객에게 더 나은 서비스를 제공 할 수 있습니다. Ripple은 금융 서비스 및 컴플라이언스 분야에서 막대한 경험을 보유한 업계에서 가장 앞선 분산 원장 기술 회사 중 하나입니다. 이 투자를 통해 우리는 Ripple의 전문성을 활용하고 고객 및 생태계의 변화하는 요구 사항을 지원하기 위해보다 상업적으로 실행 가능한 응용 프로그램을 공동 개발할 수 있습니다. "
