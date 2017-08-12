@@ -89,5 +89,11 @@
 ### 일본 '동영경제' 잡지에 SBI 대표가 리플에 대해 언급
 SBI대표는 리플을 이용해 송금 혁명을 일으킨다고 하고 리플을 이용한 국내외의 송금서비스를 안하는 은행들은 앞으로 살아남을 수가 없다고 언급
 
-### 6대루머에 대한 리플사의 답변
-  https://github.com/devjin0617/coin-news/blob/master/contents/002.md
+### 6대루머에 대한 리플사의 답변 [링크](https://github.com/devjin0617/coin-news/blob/master/contents/002.md)
+- 루머 1 : Ripple Consensus Ledger는 중앙집권형 또는 허가제의 분산원장이다.
+- 루머 2 : Ripple사는 XRP의 총 공급량을 1000억 이상으로 늘릴 수 있다.
+- 루머 3 : Ripple이 XRP의 가격을 컨트롤하고있다.
+- 루머 4 : 은행은 XRP를 사용하지 않는다.
+- 루머 5 : 유동성 공급자가 XRP를 사용하는 것은 위험하다.
+- 루머 6 : XRP의 가치는 Ripple사의 가치에 반비례 한다. Ripple사의 제품이 은행에 채용되는 것은 XRP의 디지털 자산으로서의 성공과 무관하다.
+
