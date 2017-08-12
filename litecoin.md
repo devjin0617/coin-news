@@ -1,2 +1,3 @@
+- 2017.08.08. https://www.reddit.com/r/litecoin/comments/6sgyji/welcome_to_the_litecoin_community_alliance_lca/
 - 2017.08.07. https://www.reddit.com/r/litecoin/comments/6s9fct/my_response_to_all_the_criticism/
 - 2017.07.25. https://news.bitcoin.com/litecoin-atms-proliferate-globally/
