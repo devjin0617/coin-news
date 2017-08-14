@@ -25,6 +25,7 @@
 
 
 # 코인뉴스/정보
+- UQUID Debit Card(가상화폐 직불카드): [https://uquid.com](https://uquid.com)
 - 네오(NEO) 백서: [http://docs.neo.org/ko-kr/index.html](http://docs.neo.org/ko-kr/index.html)
 - 국내 최초 코인뉴스(오늘의 코인, 아시아경제TV): [https://youtu.be/ViXFeVaMgiY](https://youtu.be/ViXFeVaMgiY)
 - 가상통화 법률안 내용: [http://coingall.com/index.php?mid=coin&document_srl=145471](http://coingall.com/index.php?mid=coin&document_srl=145471)
