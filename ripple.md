@@ -14,7 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
-- 2017.08.14. https://www.newsbtc.com/2017/08/14/apple-approves-toast-wallet-supporting-ripples-xrp-currency: 애플, 리플의 XRP 통화를 지원하는 `Toast Wallet` 앱스토어 심사 승인
+- 2017.08.14. https://www.newsbtc.com/2017/08/14/apple-approves-toast-wallet-supporting-ripples-xrp-currency: 애플, 리플의 XRP 통화를 지원하는 `Toast Wallet` 앱스토어 심사 승인 (그냥 지갑앱이 앱스토어등록할때 심사승인된것)
 - 2017.08.11. https://mobile.twitter.com/emy_wng/status/895737169884479488: 본격적으로 중국진출을 위한 채용공고 진행
 - 2017.08.07. http://cryptocurrencymagazine.com/?p=12989: DASH를 사용할 수 DASH PAY CARD가 48 개국에서 8 월말에 출시, DASH 리플 게이트웨이에 추가됩니다 GATEHUB에서 이용 가능
 - 2016.09.15. https://www.sc.com/en/news-and-media/news/global/2016-09-15-standard-chartered-completes-strategic-investment-in-ripple.html: (2016년자료) 스탠다드 차타드, 리플에 전략적 투자 완료.
