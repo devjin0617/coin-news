@@ -14,6 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- 2017.08.16: https://github.com/devjin0617/coin-news/blob/master/images/KakaoTalk_Photo_2017-08-17-23-41-54.jpeg?raw=true: RIPPLE 현지 기업의 도움없이 중국 진출을 목표
 - 2017.08.17. https://bitindia.co: 리플 인도 상장 소식
 - 2017.08.17. https://coinpan.com/xrp/2118484: 리플 이벤트에 관한 내용 개인이 정리한 글
 - https://medium.com/backchannel/bill-gates-on-mobile-banking-connecting-the-world-and-ai-937f35c8a110: [과거자료] 빌게이츠가 리플과 비트코인 언급
