@@ -14,6 +14,9 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- 2017.08.17. https://bitindia.co: 리플 인도 상장 소식
+- 2017.08.17. https://coinpan.com/xrp/2118484: 리플 이벤트에 관한 내용 개인이 정리한 글
+- https://medium.com/backchannel/bill-gates-on-mobile-banking-connecting-the-world-and-ai-937f35c8a110: [과거자료] 빌게이츠가 리플과 비트코인 언급
 - http://observer.com/2015/02/the-race-to-replace-bitcoin: 리플이 나온 이유
 - 2017.08.15. https://twitter.com/bitpams/status/897333561057050624: Ripple은 중국의 가장 큰 은행 중 하나인 상하이 Huarui 은행과 협력관계...
 - 2017.08.14. https://www.newsbtc.com/2017/08/14/apple-approves-toast-wallet-supporting-ripples-xrp-currency: 애플, 리플의 XRP 통화를 지원하는 `Toast Wallet` 앱스토어 심사 승인 (그냥 지갑앱이 앱스토어등록할때 심사승인된것)
