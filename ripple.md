@@ -14,6 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- http://observer.com/2015/02/the-race-to-replace-bitcoin: 리플이 나온 이유
 - 2017.08.15. https://twitter.com/bitpams/status/897333561057050624: Ripple은 중국의 가장 큰 은행 중 하나인 상하이 Huarui 은행과 협력관계...
 - 2017.08.14. https://www.newsbtc.com/2017/08/14/apple-approves-toast-wallet-supporting-ripples-xrp-currency: 애플, 리플의 XRP 통화를 지원하는 `Toast Wallet` 앱스토어 심사 승인 (그냥 지갑앱이 앱스토어등록할때 심사승인된것)
 - 2017.08.11. https://mobile.twitter.com/emy_wng/status/895737169884479488: 본격적으로 중국진출을 위한 채용공고 진행
