@@ -14,6 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- 2017.08.18. http://businessblockchain.org/ripple_abudhabi_national_bank?utm_source=twitter&utm_medium=official: 아부 다비 국립 은행이 일부 결제 시스템에 리플을 도입 - 블록 연쇄 연구회
 - 2017.08.17. https://www.coindesk.com/lightning-bank-ledgers-bitfury-ripple-demo-new-twist-bitcoin-tech/: 번개 은행 원장? Bitfury 및 Ripple 데모 Bitcoin Tech의 새로운 트위스트
 - 2017.08.16: https://coinpan.com/free/4196368: 리플의 9월이 기대되는 이유. 개인이 정리한 글.
 - 2017.08.16: https://github.com/devjin0617/coin-news/blob/master/images/KakaoTalk_Photo_2017-08-17-23-41-59.jpeg?raw=true: Ripple은 비행 택배보다 빠르게 돈을 이동하는 블록체인을 사용합니다.
