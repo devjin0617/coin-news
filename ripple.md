@@ -14,6 +14,7 @@
 
 # 관련뉴스 (뉴스를 찾은 날짜의 최신순)
 
+- 2017.08.15. http://gtgox.com/ripple/20170815/simple-logic-of-xrp-to-be-used/: XRP가 사용되는 간단한 이론
 - 2017.08.18. http://businessblockchain.org/ripple_abudhabi_national_bank?utm_source=twitter&utm_medium=official: 아부 다비 국립 은행이 일부 결제 시스템에 리플을 도입 - 블록 연쇄 연구회
 - 2017.08.17. https://www.coindesk.com/lightning-bank-ledgers-bitfury-ripple-demo-new-twist-bitcoin-tech/: 번개 은행 원장? Bitfury 및 Ripple 데모 Bitcoin Tech의 새로운 트위스트
 - 2017.08.16: https://coinpan.com/free/4196368: 리플의 9월이 기대되는 이유. 개인이 정리한 글.
