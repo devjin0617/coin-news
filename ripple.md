@@ -41,6 +41,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.19. https://xrphodor.wordpress.com/2017/08/19/is-ripple-poised-to-become-the-largest-fintech-company/amp/: 리플은 가장 큰 Fintech 회사가 될 태세인가?
 - 2017.08.17. https://www.coindesk.com/ripples-distributed-ledger-network-passes-50-validator-milestone/: 리플 유효성 검사기 네트워크를 140% 확장. 앞으로 더 추가예정.
 - 2017.08.19. http://m.sateconomy.co.kr/news/articleView.html?idxno=40096: "해외송금 전쟁 막올랐다"…경쟁자들 진입에 은행권 수수료 인하로 '맞불' → SBI 일부 언급
 - 2017.08.19. https://github.com/devjin0617/coin-news/blob/master/contents/003.md: Lightning Network 관련 설명
