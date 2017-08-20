@@ -8,6 +8,7 @@
 
 # 관련뉴스 (최신순)
 
+- http://kaleido11.blog.fc2.com/blog-entry-5175.html: FRB의 금리 인상이 가상 통화로 자금 유입을 가속
 - http://www.yonhapnews.co.kr/bulletin/2017/08/18/0200000000AKR20170818123700009.HTML?input=1195m: 비트코인 채권 나왔다...제도권 진출 시도
 - http://m.biz.chosun.com/svc/article.html?contid=2017081500931:  "비트코인, 1년 내로 7500달러까지 간다"
 - http://www.fntimes.com/paper/view.aspx?num=186011: (일) 보험업계 비트코인 사이버보험 출시
