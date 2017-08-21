@@ -42,6 +42,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.22. https://twitter.com/Ripple/status/899725196122136576: 공식 리플트윗에서 발표언급 (중국진출 예상)
 - 2017.08.21. http://www.altcointoday.com/how-ripple-might-seek-to-enter-the-chinese-market/: 의견 : Ripple이 중국 시장 진출을 모색하는 방법
 - 2017.08.19. https://medium.com/@Shukri30/ripple-would-be-worth-1-000-in-3-years-365135e5114f: 리플은 3년뒤 1,000 달러 가치가 있습니다! (리플의 경쟁자는 비트코인이 아닌 SWIFT)
 - 2017.08.19. https://xrphodor.wordpress.com/2017/08/19/is-ripple-poised-to-become-the-largest-fintech-company/amp/: 리플은 가장 큰 Fintech 회사가 될 태세인가?
