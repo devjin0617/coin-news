@@ -42,6 +42,10 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.21. ~~https://twitter.com/CryptoCohen/status/899755125442400256: 리플 중국진출시 알리바바와 관련성 트윗~~ → 확인결과 전혀 관련없는 정보입니다.
+  - ~~https://coinmarketcap.com/exchanges/ripple-china/: 중국 마켓추가~~
+  - ~~http://website.informer.com/ripplechina.net: Hosting company 가 알리바바로 되어 있음~~
+  - Hosting company는 인터넷망정도로 생각하시면 됩니다. 국내서비스같은경우는 SK로 표기됩니다.
 - 2017.08.15. https://steemit.com/kr/@icoreport/5fxpmp: 리플에게도 한방이 있을까? ( 부제 : 리플의 수상한 움직임 )
 - 2017.08.22. https://twitter.com/Ripple/status/899725196122136576: 공식 리플트윗에서 발표언급 (중국진출 예상)
 - 2017.08.21. http://www.altcointoday.com/how-ripple-might-seek-to-enter-the-chinese-market/: 의견 : Ripple이 중국 시장 진출을 모색하는 방법
