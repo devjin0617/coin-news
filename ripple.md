@@ -42,6 +42,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2016.10.24. https://seijiyama.jp/article/news/omn20161027-5.html: 인도 주 정부와 싱가포르 중앙 은행이 공동으로 블록 체인 추진 합의 → 작년 뉴스자료로 이렇구나 넘어가면 좋을 것 같습니다.
 - 2017.08.21. ~~https://twitter.com/CryptoCohen/status/899755125442400256: 리플 중국진출시 알리바바와 관련성 트윗~~ → 확인결과 전혀 관련없는 정보입니다.
   - ~~https://coinmarketcap.com/exchanges/ripple-china/: 중국 마켓추가~~
   - ~~http://website.informer.com/ripplechina.net: Hosting company 가 알리바바로 되어 있음~~
