@@ -44,6 +44,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.23. https://coinpan.com/index.php?mid=free&page=6&document_srl=4868310: alipay.ripple.com 루머
 - 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/006.md: 새로 추가될 리플사 회원 목록 및 웹사이트
 - 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/005.md: (개인글) 리플에 대해서 설명해주신 글입니다.
 - 2017.08.23. http://naver.me/xahIbbL5: (개인글) 리플코인 급상승한 이유에 대한 분석
