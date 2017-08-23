@@ -44,6 +44,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/006.md: 새로 추가될 리플사 회원 목록 및 웹사이트
+- 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/005.md: (개인글) 리플에 대해서 설명해주신 글입니다.
 - 2017.08.23. http://naver.me/xahIbbL5: (개인글) 리플코인 급상승한 이유에 대한 분석
 - 2017.08.22. https://ethereumworldnews.com/make-way-bitcoin-ethereum-time-ripple-revolution/: Bitcoin 및 Ethereum 위로 이동 : 이제 Ripple Revolution에 대한 시간입니다.
 - 2017.08.21. http://www.prweb.com/releases/2017/08/prweb14615572.htm: Point-and-Click ICO를위한 새로운 리플 기반 분산 Exchange
