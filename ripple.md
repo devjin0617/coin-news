@@ -44,6 +44,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.23. naver.me/xahIbbL5: (개인글) 리플코인 급상승한 이유에 대한 분석
 - 2017.08.22. https://ethereumworldnews.com/make-way-bitcoin-ethereum-time-ripple-revolution/: Bitcoin 및 Ethereum 위로 이동 : 이제 Ripple Revolution에 대한 시간입니다.
 - 2017.08.21. http://www.prweb.com/releases/2017/08/prweb14615572.htm: Point-and-Click ICO를위한 새로운 리플 기반 분산 Exchange
 - 2016.10.24. https://seijiyama.jp/article/news/omn20161027-5.html: 인도 주 정부와 싱가포르 중앙 은행이 공동으로 블록 체인 추진 합의 → 작년 뉴스자료로 이렇구나 넘어가면 좋을 것 같습니다.
