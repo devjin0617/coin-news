@@ -25,6 +25,7 @@
 
 
 # 코인뉴스/정보
+- 미연방 준비위원회!! 달러화의 비밀?: https://github.com/devjin0617/coin-news/blob/master/contents/007.md
 - 전자금융거래법 일부개정안: https://github.com/devjin0617/coin-news/blob/master/contents/004.md
 - 미국 증권 거래위원회(SEC)에서 ICO에 대해 유심히 보고 있으며 규제를 마련할 준비 중이라는 뉴스: https://steemit.com/kr/@chani/sec-ico
 - UQUID Debit Card(가상화폐 직불카드): [https://uquid.com](https://uquid.com)
