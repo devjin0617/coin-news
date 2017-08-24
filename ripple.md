@@ -46,6 +46,11 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.25. https://www.sibos.com/conference/conference-programme: 스위프트 블록체인 컨퍼런스 => SWELL일정과 겹침: 호재
+- 2017.08.25. https://swell.ripple.com/: SWELL 일정공개: 100%호재
+  - 연방 준비 제도 이사회 의장
+  - WWW 처음 발명한사람
+  - 위 두사람이 기조연설
 - 2017.08.24. https://github.com/devjin0617/coin-news/blob/master/contents/008.md: 리플발표 3..2..1..에 대한 개인풀이2 (출처:디씨 비트코인갤러리)
 - 2017.08.24. http://cafe.naver.com/coinnet7/7: 리플발표 3..2..1..에 대한 개인풀이
 - 2017.08.24. https://www.xrpchat.com/topic/8955-ripple-s-countdown-what-s-the-center-of-the-stage-indicated-by-the-tweet-japanese/: SWIFT와 리플의 파트너관계 (루머)
