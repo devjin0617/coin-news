@@ -45,6 +45,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.25. https://ripple.com/insights/news/announcing-swell-by-ripple/: Announcing Swell by Ripple
 - 2017.08.25. https://www.sibos.com/conference/conference-programme: 스위프트 블록체인 컨퍼런스 => SWELL일정과 겹침: 호재
 - 2017.08.25. https://swell.ripple.com/: SWELL 일정공개: 100%호재
   - 연방 준비 제도 이사회 의장
