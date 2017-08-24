@@ -44,6 +44,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.24. https://www.xrpchat.com/topic/8955-ripple-s-countdown-what-s-the-center-of-the-stage-indicated-by-the-tweet-japanese/: SWIFT와 리플의 파트너관계 (루머)
+  > Yellen 연방 준비 제도 이사회 (FRB) 의장은이 심포지엄에서 강연을 가질 예정이며, 구로다 히로요시 일본 은행 총재와 Mario Dr. Kuroda 박사가 ECB 유럽 중앙 은행) 대통령도 참석할 것이며, 파문이 발표 될 것이라는 소식이 전해지면서 XRP 보유자들 사이에서 논란이있다. Alipay, Kakao Bank, PayNow 및 SBI와 관련된 일부 사람들은 SWIFT와의 파트너십조차 있다고합니다.
 - 2017.08.23. https://coinpan.com/index.php?mid=free&page=6&document_srl=4868310: alipay.ripple.com 루머
 - 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/006.md: 새로 추가될 리플사 회원 목록 및 웹사이트
 - 2017.08.23. https://github.com/devjin0617/coin-news/blob/master/contents/005.md: (개인글) 리플에 대해서 설명해주신 글입니다.
