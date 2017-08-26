@@ -50,6 +50,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.25. https://www.reddit.com/r/Ripple/comments/6w3myt/everyone_needs_to_understand_that_ripple_is_not/: (레딧글)리플은 SWIFT와 경쟁하려는 것이 아니다.
+- 2017.04.12. https://ripple.com/insights/ripple-hires-former-business-director-swift-gpi-marjan-delatinne/: 리플은 SWIFT GPI 마르 얀 Delatinne에서 전 사업 이사를 고용
 - 2017.08.25. http://www.profitconfidential.com/cryptocurrency/cryptocurrency-price-predictions-2018-ripple-winner/amp/: 암호 화폐 가격 예측 2018 : 리플은 명확한 승자
 - 2017.08.25. https://ripple.com/insights/news/announcing-swell-by-ripple/: Announcing Swell by Ripple
 - 2017.08.25. https://www.sibos.com/conference/conference-programme: 스위프트 블록체인 컨퍼런스 => SWELL일정과 겹침: 호재
