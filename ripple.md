@@ -302,7 +302,7 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 ### 기부 정보
 > XRP 주소: ra7jv2DZDPgZ8AQEQqbTtYCt7MnSgQjTtf
 
-> 보내주시게 된다면 20XRP씩 받도록 하겠습니다 :smile:
+> 안보내주셔도 됩니다. 그러나 만약 보내주시게 된다면 20XRP씩 받도록 하겠습니다 :smile:
 
 ### 기부자 목록
 > 기부해 주시는 분들께 제가 해드릴 수 있는 것 뉴스정보를 더 열심히 올리는 것이라고 생각됩니다.
