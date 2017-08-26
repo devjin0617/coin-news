@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.25. http://naver.me/GBMg0jLu: 리플코인swell 연설 참여자 벤버냉키 그는 누구인가
 - 2017.08.27. https://twitter.com/Ripple/status/901474713020633088: (리플공식트윗)결제에 관해서라면 가장 중요한 것은 무엇인가? 저희 블로그를 확인해 보세요.
 - 2017.08.25. https://www.reddit.com/r/Ripple/comments/6w3myt/everyone_needs_to_understand_that_ripple_is_not/: (레딧글)리플은 SWIFT와 경쟁하려는 것이 아니다.
 - 2017.04.12. https://ripple.com/insights/ripple-hires-former-business-director-swift-gpi-marjan-delatinne/: 리플은 SWIFT GPI 마르 얀 Delatinne에서 전 사업 이사를 고용
