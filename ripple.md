@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.28. http://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-forecast-analysis-august-28-2017/amp/: 리플 가격 예측 및 분석 - 2017년 8월 28일
 - 2017.08.28. https://ethereumworldnews.com/amp/ripple-taking-2018-crypto-prediction/: 리플 2018년도 $2 예측 관련 글
 - 2017.08.28. https://github.com/devjin0617/coin-news/blob/master/contents/010.md: SWELL 추가 참여자 명단
 - 2017.08.27. http://www.arabianbusiness.com/content/377336-uae-exchange-in-talks-with-blockchain-brand-ripple: 블록체인 브랜드 Ripple과 UAE Exchange와의 협상
