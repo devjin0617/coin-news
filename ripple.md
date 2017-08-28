@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.27. http://www.arabianbusiness.com/content/377336-uae-exchange-in-talks-with-blockchain-brand-ripple: 블록체인 브랜드 Ripple과 UAE Exchange와의 협상
 - 2017.08.27. https://github.com/devjin0617/coin-news/blob/master/contents/009.md: 리플 미연방준비은행 Cross-border Payment 채택 2
 - 2017.08.25. http://naver.me/GBMg0jLu: 리플코인swell 연설 참여자 벤버냉키 그는 누구인가
 - 2017.08.27. https://twitter.com/Ripple/status/901474713020633088: (리플공식트윗)결제에 관해서라면 가장 중요한 것은 무엇인가? 저희 블로그를 확인해 보세요.
