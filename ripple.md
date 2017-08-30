@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.30. https://www.cryptocoinsnews.com/uae-remittance-giant-taps-ripple-instant-blockchain-international-payments/: 아랍 국제송금 리플 채택 
 - 2017.08.29. http://www.mobiinside.com/kr/2017/08/29/ripple-stellar-blockchain/: [블록체인에 대하여] 리플과 스텔라 비교 그리고 한계점
 - 2017.08.29. https://apptimes.net/archives/7009: 가상 통화 "리플 (XRP)"국제 송금의 점유율 확대 - UAE 익스체인지가 Ripple와 제휴
 - 2017.08.29. http://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-predictions-2017-xrp-dollar-1/: 리플 가격 예측 2017 : XRP 가격은 연말까지 1 달러를 넘을 수 있습니다.
