@@ -25,6 +25,7 @@
 
 
 # 코인뉴스/정보
+- 베트남, 2018년부터 비트코인 등 가상화폐 거래 공식 허용: http://theblockchain.kr/article-408
 - [오늘의종목] 에이티넘인베스트먼트, 가상화폐 진출 카카오스탁 두나무 지분 부각 ↑: http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003098461
 - 미연방 준비위원회!! 달러화의 비밀?: https://github.com/devjin0617/coin-news/blob/master/contents/007.md
 - 전자금융거래법 일부개정안: https://github.com/devjin0617/coin-news/blob/master/contents/004.md
