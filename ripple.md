@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.30. https://freedman.club/ripple-blockchain-s-kitai: (러시아어)리플은 중국 중앙 은행의 관리들과 Blockchain 기술에 대해 설명합니다
 - 2017.08.30. http://www.livebitcoinnews.com/ripple-technology-can-improve-payment-services-gulf-region/: Ripple Technology, 걸프 지역의 결제 서비스 개선
 - 2017.08.30. https://www.cryptocoinsnews.com/uae-remittance-giant-taps-ripple-instant-blockchain-international-payments/: 아랍 국제송금 리플 채택 
 - 2017.08.29. http://www.mobiinside.com/kr/2017/08/29/ripple-stellar-blockchain/: [블록체인에 대하여] 리플과 스텔라 비교 그리고 한계점
