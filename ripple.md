@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.29. http://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-predictions-2017-xrp-dollar-1/: 리플 가격 예측 2017 : XRP 가격은 연말까지 1 달러를 넘을 수 있습니다.
 - 2017.08.29. https://mp.weixin.qq.com/s/WoPxMELtgIQyfUMfPP9d-Q: (중국)글로벌 금융 결제 네트워크 리플의 블록체인
 - 2017.08.28. http://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-forecast-analysis-august-28-2017/amp/: 리플 가격 예측 및 분석 - 2017년 8월 28일
 - 2017.08.28. https://ethereumworldnews.com/amp/ripple-taking-2018-crypto-prediction/: 리플 2018년도 $2 예측 관련 글
