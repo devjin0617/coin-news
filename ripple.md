@@ -50,6 +50,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.29. http://gall.dcinside.com/board/view/?id=bitcoins&no=566532: (개인글)미연준(미국연방준비제도이사회)이 리플 선택할 가능성
 - 2017.08.30. https://freedman.club/ripple-blockchain-s-kitai: (러시아어)리플은 중국 중앙 은행의 관리들과 Blockchain 기술에 대해 설명합니다
 - 2017.08.30. http://www.livebitcoinnews.com/ripple-technology-can-improve-payment-services-gulf-region/: Ripple Technology, 걸프 지역의 결제 서비스 개선
 - 2017.08.30. https://www.cryptocoinsnews.com/uae-remittance-giant-taps-ripple-instant-blockchain-international-payments/: 아랍 국제송금 리플 채택 
