@@ -51,7 +51,6 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
-- 2017.09.01. https://www.cryptocoinsnews.com/six-global-banks-join-ubs-digital-currency-project-aims-go-live-2018/amp/: UBS의 디지털 통화 프로젝트에 6개 글로벌 뱅크에 가입. 2018년 "Go Live" 목표
 - 2017.08.31. https://ripple.com/insights/its-never-been-easier-to-access-and-store-xrp/: (리플공식)XRP에 액세스하고 저장하는 것이 더 쉬워졌습니다.
 - 2017.08.28. https://youtu.be/ovlA_6yRxJQ: 2017년 10월에 리플XRP가 오를수 밖에 없는 이유
 - 2017.08.29. http://investinghaven.com/growth-stocks/ripple-price-rise-2017/: 2017년도 리플의 가격이 왜 $0.5 이상 오를 것인가?
