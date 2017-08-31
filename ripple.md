@@ -51,6 +51,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.31. https://ripple.com/insights/its-never-been-easier-to-access-and-store-xrp/: (리플공식)XRP에 액세스하고 저장하는 것이 더 쉬워졌습니다.
 - 2017.08.28. https://youtu.be/ovlA_6yRxJQ: 2017년 10월에 리플XRP가 오를수 밖에 없는 이유
 - 2017.08.29. http://investinghaven.com/growth-stocks/ripple-price-rise-2017/: 2017년도 리플의 가격이 왜 $0.5 이상 오를 것인가?
 - 2017.08.29. http://gall.dcinside.com/board/view/?id=bitcoins&no=566532: (개인글)미연준(미국연방준비제도이사회)이 리플 선택할 가능성
