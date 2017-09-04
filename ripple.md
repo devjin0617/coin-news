@@ -51,6 +51,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.30. http://cafe.naver.com/autogallery911/31819: 리플 9월12일 2시 발표 일정
 - 2017.08.31. https://ripple.com/insights/its-never-been-easier-to-access-and-store-xrp/: (리플공식)XRP에 액세스하고 저장하는 것이 더 쉬워졌습니다.
 - 2017.08.28. https://youtu.be/ovlA_6yRxJQ: 2017년 10월에 리플XRP가 오를수 밖에 없는 이유
 - 2017.08.29. http://investinghaven.com/growth-stocks/ripple-price-rise-2017/: 2017년도 리플의 가격이 왜 $0.5 이상 오를 것인가?
