@@ -51,6 +51,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.02. https://cointelegraph.com/news/ripple-talks-with-peoples-bank-of-china-key-to-chinese-blockchain-market: 인민 은행과의 리플 회담, 중국 블록체인 시장의 열쇠
 - 2017.08.31. https://bitcoinira.com/articles/bitcoin-ira-launches-xrp: 미국에서 퇴직금 펀드(비과세 연간적립서비스)의 구입대상에 리플이 추가될 예정. 미국 국세청(IRS)로부터 인가를 받았다고 함
 - 2017.09.01. http://www.crypto-huuka.com/entry/2017/09/01/164713: (루머정리) 일본 최대은행 미츠비시도쿄UFJ은행에서 2018년 초까지 해외송금에 리플의 기술을 이용할 것이라고 일본경제신문에 밝힘
   - https://www.nikkei.com/article/DGKKZO20625230R30C17A8EE9000/: (일본경제신문) 은행간 거래를 전자통화로, 리플로 고객간 해외송금 효율화
