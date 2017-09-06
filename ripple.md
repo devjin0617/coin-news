@@ -52,6 +52,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.06. http://www.newspim.com/news/view/20170904000132: [가상화폐]③ 독특한 '리플', 기축통화 자리 넘본다
 - 2017.09.05. https://steemit.com/bitcoin/@oezkan.pektas/xrp-ripple-the-next-coin-expolison: XRP Ripple the next Coin expolison?
 - 2017.09.02. http://www.livebitcoinnews.com/new-woocommerce-plugin-allows-wordpress-site-owner-accept-xrp-payments/: 앞으로 XRP로 전자상거래를 쉽게 이용할수 있는 길이 열렸습니다.
 - 2017.09.02. https://cointelegraph.com/news/ripple-talks-with-peoples-bank-of-china-key-to-chinese-blockchain-market: 인민 은행과의 리플 회담, 중국 블록체인 시장의 열쇠
