@@ -52,6 +52,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.06. https://www.cryptocoinsnews.com/ripple-opens-shop-india-worlds-largest-remittance-receiver/: 리플, 세계 최대 송금 리시버 인 인도 오픈
 - 2017.08.26. https://twitter.com/williamzhang18/status/902269677820248065: 중국 은행관계자 트윗
   - 요약 : "나는 중국 Central bank에 소속된 관리자로 리플에 대한 소식( XRP에 대한 내용)을 듣고는, 내가 가진 모든 돈을 투자하여 XRP를 구매하였다"
   - 위의 배경은 중국 인민은행 관리들이 리플 본사를 방문한 후 누군가 트윗에 올린 것 같습니다.
