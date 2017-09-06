@@ -52,6 +52,9 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.08.26. https://twitter.com/williamzhang18/status/902269677820248065: 중국 은행관계자 트윗
+  - 요약 : "나는 중국 Central bank에 소속된 관리자로 리플에 대한 소식( XRP에 대한 내용)을 듣고는, 내가 가진 모든 돈을 투자하여 XRP를 구매하였다"
+  - 위의 배경은 중국 인민은행 관리들이 리플 본사를 방문한 후 누군가 트윗에 올린 것 같습니다.
 - 2017.09.06. http://www.newspim.com/news/view/20170904000132: [가상화폐]③ 독특한 '리플', 기축통화 자리 넘본다
 - 2017.09.05. https://steemit.com/bitcoin/@oezkan.pektas/xrp-ripple-the-next-coin-expolison: XRP Ripple the next Coin expolison?
 - 2017.09.02. http://www.livebitcoinnews.com/new-woocommerce-plugin-allows-wordpress-site-owner-accept-xrp-payments/: 앞으로 XRP로 전자상거래를 쉽게 이용할수 있는 길이 열렸습니다.
