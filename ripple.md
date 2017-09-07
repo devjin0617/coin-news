@@ -55,6 +55,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.01. http://prime01068384445.tistory.com/m/98: (개인 블로그 글) 리플 2017년 9월 호재 정리 및 개인 아ㅢ견
 - 2017.09.07: https://www.cryptocoinsnews.com/ripple-expands-daily-operations-india/: 리플, 인도에서 운영 확대
 - 2017.09.06: https://coinreport.net/ripple-host-swell-future/: 리플 주최자 SWELL: 미래는 여기에 있습니다
 - 2017.09.05. https://twitter.com/Ripple/status/905257283684143104: (리플공식트윗) 리플의 인도진출/확장 트윗
