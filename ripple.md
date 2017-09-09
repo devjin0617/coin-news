@@ -56,6 +56,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.09. https://www.reuters.com/article/r3-ripple-lawsuit/blockchain-startup-r3-sues-competitor-ripple-idUSL2N1LP181: 블록 체인 스타트업 R3, 경쟁 업체 리플을 고소
 - 2017.09.07. https://ripple.com/insights/remittance-transfers-policy-practicalities-and-innovation/: (리플공식) 송금 전송 : 정책, 실용성, 혁신
 - 2017.09.05. https://ripple.com/insights/ripple-launches-new-mumbai-office-serve-indias-digital-economy/: 리플은 인도의 디지털 경제를 제공하는 새로운 뭄바이 사무소 확장
 - 2017.09.01. http://prime01068384445.tistory.com/m/98: (개인 블로그 글) 리플 2017년 9월 호재 정리 및 개인 아ㅢ견
