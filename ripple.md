@@ -57,6 +57,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.10. https://www.change.org/p/ripple-get-ripple-on-coinbase-18f018d0-1c06-4d74-9a69-1639c9649af5/u/21304885: 리플 코인베이스 - 새로운 응답! CoinBase 청원서에서 Get Ripple 업데이트!
 - 2017.05.17. http://www.huffingtonpost.com/entry/591cb3bee4b0b28a33f62915: (과거자료)리플 및 XRP는 생각보다 안정적입니다.→아래는 요약
   - 리플 버블 아님
   - 리플랩스는 XRP에만 집중하고 있고 딴건 일절 안함
