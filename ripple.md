@@ -61,6 +61,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.11. http://www.ibtimes.com/banks-around-world-switch-blockchain-technology-2588394?amp=1: 세계 은행, 블록 체인 기술로 전환
 - 2017.09.11. https://www.cnbc.com/amp/2017/09/11/ripple-ceo-brad-garlinghouse-on-bitcoin-and-xrp.html: 리플 CEO인 Brad Garlinghouse가 암호화 화폐가 왜 세계에 영향을 끼치는지 설명
 - 2017.09.10. https://finance.knect365.com/payments-international/speakers/marcus-treacher: 14일 또다른 스피커 + SWIFT 참석자도 존재
 - 2017.09.10. https://finance.knect365.com/payments-international/agenda/1#distributed-ledger-technology-for-cross-border-payments: 크게 핀테크,지불규정,블럭체인써밋 이렇게 3개의 꼭지로 되어 있으며 리플은 블럭체인써밋에 스피커로 참석 합니다 
