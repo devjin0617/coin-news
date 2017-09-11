@@ -57,6 +57,15 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.05.17. http://www.huffingtonpost.com/entry/591cb3bee4b0b28a33f62915: (과거자료)리플 및 XRP는 생각보다 안정적입니다.→아래는 요약
+  - 리플 버블 아님
+  - 리플랩스는 XRP에만 집중하고 있고 딴건 일절 안함
+  - XRP는 구조상 개수가 줄어가는 코인이라 오히려 디플레임
+  - 1억 XRP 중 리플랩스가 보유하는 총 6천만 XRP의 88퍼는 4년반 간 에스크로 스마트컨트랙트에 뿌린다고 발표함
+  - XRP의 큰 변동성은 자사의 변동성 최소화 서비스를 통해 줄여 은행이 믿고 거래할 수 있게 할 것
+  - 리플은 SWIFT와 연이 닿아있음
+  - 리플은 중립성이므로 은행들이 우호적임
+  - 리플은 기존의 은행간 거래 관련 고질적 문제를 해결
 - 2017.09.11. https://drive.google.com/file/d/0B8Prk1VqEFwgcXNPMGpnMHFvRUk/view: 샌프란시스코 고등 법원 일률표 (온라인 서비스> 사례 질의> 사건 번호 561205 검색)를 찾아 리플 접수 사항
 - 2017.09.09. https://www.reuters.com/article/r3-ripple-lawsuit/blockchain-startup-r3-sues-competitor-ripple-idUSL2N1LP181: 블록 체인 스타트업 R3, 경쟁 업체 리플을 고소
 - 2017.09.07. https://ripple.com/insights/remittance-transfers-policy-practicalities-and-innovation/: (리플공식) 송금 전송 : 정책, 실용성, 혁신
