@@ -57,6 +57,9 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.10. https://finance.knect365.com/payments-international/speakers/marcus-treacher: 14일 또다른 스피커 + SWIFT 참석자도 존재
+- 2017.09.10. https://finance.knect365.com/payments-international/agenda/1#distributed-ledger-technology-for-cross-border-payments: 크게 핀테크,지불규정,블럭체인써밋 이렇게 3개의 꼭지로 되어 있으며 리플은 블럭체인써밋에 스피커로 참석 합니다 
+- 2017.09.10. https://finance.knect365.com/payments-international/: 올해는 영국에서 열리며 성격은 페이먼트와 페이테크를 주로 다루며 올해는 시장정보에 중점을 맞췄다고 합니다 여기서 말하는시장은 유럽시장을 말합니다
 - 2017.09.10. https://www.cryptoninjas.net/2017/09/10/cryptocurrency-exchange-lakebtc-add-ripple-xrp-trading/amp/: Cryptocurrency 교환 Ripple (XRP) 거래를 추가하는 LakeBTC
 - 2017.09.09. http://www.theblockchain.kr/article-469: 블록체인 기술 리더들, ‘1조원’ 놓고 맞소송: R3 vs. 리플
 - 2017.09.10. https://www.change.org/p/ripple-get-ripple-on-coinbase-18f018d0-1c06-4d74-9a69-1639c9649af5/u/21304885: 리플 코인베이스 - 새로운 응답! CoinBase 청원서에서 Get Ripple 업데이트!
