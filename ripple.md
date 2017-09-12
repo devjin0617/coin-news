@@ -57,6 +57,7 @@
   - https://steemit.com/kr/@k2love/btc-xrp-1-2
   - https://steemit.com/kr/@k2love/btc-xrp-2
 - 리플(XRP) 일정: https://www.xrpchat.com/calendar/
+- Ripple 2017.10 SWELL Agenda: https://swell.ripple.com/agenda/
 
 # 관련뉴스
 
