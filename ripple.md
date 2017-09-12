@@ -61,6 +61,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.11. https://ripple.com/insights/sbi-ripple-asia-partners-dayli-financial-group-bring-ripple-south-korea/: SBI Ripple Asia와 DAILY Financial Group, 한국에 Ripple 인수 계약
 - 2017.09.11. http://www.ibtimes.com/banks-around-world-switch-blockchain-technology-2588394?amp=1: 세계 은행, 블록 체인 기술로 전환
 - 2017.09.11. https://www.cnbc.com/amp/2017/09/11/ripple-ceo-brad-garlinghouse-on-bitcoin-and-xrp.html: 리플 CEO인 Brad Garlinghouse가 암호화 화폐가 왜 세계에 영향을 끼치는지 설명
 - 2017.09.10. https://finance.knect365.com/payments-international/speakers/marcus-treacher: 14일 또다른 스피커 + SWIFT 참석자도 존재
