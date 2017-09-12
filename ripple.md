@@ -56,6 +56,7 @@
 - 비트코인과 리플 발행량 비교 및 잘정리된 블로그: https://steemit.com/kr/@k2love/xrp
   - https://steemit.com/kr/@k2love/btc-xrp-1-2
   - https://steemit.com/kr/@k2love/btc-xrp-2
+- 리플(XRP) 일정: https://www.xrpchat.com/calendar/
 
 # 관련뉴스
 
