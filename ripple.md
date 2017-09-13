@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.12. https://www.cryptocoinsnews.com/1-billion-ripple-r3-file-dueling-lawsuits-over-cancelled-partnership/: 10억 달러 : Ripple, 취소된 파트너쉽을 통한 R3 파일 결투 소송
 - 2017.09.12. https://www.cryptocoinsnews.com/sbi-ripple-asia-plans-instant-international-blockchain-payments-south-korea/: SBI 리플 아시아 (SBI Ripple Asia), 한국에서 인스턴트 인터체인지 블록킹 (Instant International Blockchain Payments) 계획
 - 2017.09.11. https://ripple.com/insights/sbi-ripple-asia-partners-dayli-financial-group-bring-ripple-south-korea/: SBI Ripple Asia와 DAILY Financial Group, 한국에 Ripple 인수 계약
 - 2017.09.11. http://www.ibtimes.com/banks-around-world-switch-blockchain-technology-2588394?amp=1: 세계 은행, 블록 체인 기술로 전환
