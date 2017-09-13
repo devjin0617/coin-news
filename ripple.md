@@ -39,6 +39,7 @@
   - [리플의 XRP 1000억개는 너무작다](#리플의-xrp-1000억개는-너무작다)
   - [야쇼님의 리플 수량 정리](#야쇼님의-리플-수량-정리)
   - [R3와 리플의 맞고소 사건](#r3와-리플의-맞고소-사건)
+  - [이더리움과 리플](#이더리움과-리플)
 - [기부](#기부)
   - [기부 정보](#기부-정보)
   - [기부자 목록](#기부자-목록)
@@ -427,6 +428,16 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 - 재미있는 것은 XRP 가격의 폭등이 주로 한국거래소들 상장과 깊은 연관이 있는데, 지금도 XRP의 거래량의 60%이상, 때로는 70% 이상이 한국의 거래소 3곳에서 모두 발생하고 있습니다.
 - 리플사가 R3와 저런 옵션계약을 체결한 것으로 봐서, 한국 거래소들과도 상장에 앞서서 상당한 물량의 비공개(?) 거래계약이 하지 않았을까 의구심이 듭니다.
 - 블록체인을 사용한 투명한 네트워크를 만들자는 정신이 중앙화된 업체들의 뒷거래들로 탈색되는 것이 아닌가 우려가 됩니다.
+
+### 이더리움과 리플
+
+- 이더리움을 창업한 비탈릭 부테린은 원래 Ripple에서 일할 예정이었지만 비자를 취득하지못하고 미국에서 일을 할 수가없어 포기했다는 얘기가 있습니다
+- https://youtu.be/fbEtivJIfIU?t=11m15s 11:10~11:40 사이에서 확인할 수 있습니다.
+
+> 비탈릭 : my first coperation term working for ripple in the u.s. 
+  ripple variance company it`s creating another second-generation version of bitcoin 
+  unforunately a whole bunch of immigration visa stupdity happends and after about a month they
+  gave up trying to get in.
 
 # 기부
 
