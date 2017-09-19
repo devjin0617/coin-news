@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.18. https://www.reddit.com/r/Ripple/comments/70ozte/ripple_xrp_and_micropayments/: (레딧) 리플 소액결제 관련 글
 - 2017.09.16. https://www.bloomberg.com/news/videos/2017-09-15/ripple-ceo-garlinghouse-sees-real-value-in-bitcoin-video: (영상) 리플 CEO Garlinghouse, Bitcoin에서 진정한 가치 기대
 - 2017.09.13. https://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-forecast-analysis-september-13-2017/: 리플 가격 예측 및 분석 - 2017 년 9 월 13 일
 - 2017.09.12. https://www.cryptocoinsnews.com/1-billion-ripple-r3-file-dueling-lawsuits-over-cancelled-partnership/: 10억 달러 : Ripple, 취소된 파트너쉽을 통한 R3 파일 결투 소송
