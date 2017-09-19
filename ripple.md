@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.18. http://www.dmjtmj-stock.com/entry/2017/09/18/173543: Google, Apple 등이 리플에 의한 가상 통화 결제를 지원하는 API를 구현!!
 - 2017.09.15. http://www.fsstech.com/postings-from-indias-ripple-deep-dive-event/: Ripple 'DEEP DIVE' 워크숍 게시
 - 2017.09.18. https://www.the4thwave.co.kr/index.php/2017/09/18/alt_0918_1/: 리플의 혁명 – 비트코인과 이더리움을 넘어서
 - 2017.09.18. https://www.reddit.com/r/Ripple/comments/70ozte/ripple_xrp_and_micropayments/: (레딧) 리플 소액결제 관련 글
