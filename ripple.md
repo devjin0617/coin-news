@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.18. https://www.the4thwave.co.kr/index.php/2017/09/18/alt_0918_1/: 리플의 혁명 – 비트코인과 이더리움을 넘어서
 - 2017.09.18. https://www.reddit.com/r/Ripple/comments/70ozte/ripple_xrp_and_micropayments/: (레딧) 리플 소액결제 관련 글
 - 2017.09.16. https://www.bloomberg.com/news/videos/2017-09-15/ripple-ceo-garlinghouse-sees-real-value-in-bitcoin-video: (영상) 리플 CEO Garlinghouse, Bitcoin에서 진정한 가치 기대
 - 2017.09.13. https://www.profitconfidential.com/cryptocurrency/ripple/ripple-price-forecast-analysis-september-13-2017/: 리플 가격 예측 및 분석 - 2017 년 9 월 13 일
