@@ -5,6 +5,10 @@ Tangle 분산원상 사용, 2015년 10월 21일 런칭, 발행량 27억개 전�
 ## 정보
 
 - IOTA 공식 홈페이지: https://iota.org/
+- IOTA KOREA 홈페이지: http://www.iotakorea.net/
+- IOTA KOREA 네이버 블로그: http://blog.naver.com/iotakorea
+- IOTA KOREA 페이스북 그룹: https://www.facebook.com/groups/iotakorea/
+- IOTA KOREA 텔래그램 대화방: https://t.me/joinchat/FHsJSQ2N00adPurSAi438g
 - IOTA 설명 영상: https://youtu.be/j6EPdNb-K8Y
 
 ## 뉴스
