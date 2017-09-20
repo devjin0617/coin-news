@@ -66,6 +66,7 @@
 
 - 2017.09.20. https://fintechcentralsf.eventfarm.com: 9/27 Fintech central 리플CEO 참여 - 라이브방송 예정
 - 2017.09.18. http://www.dmjtmj-stock.com/entry/2017/09/18/173543: Google, Apple 등이 리플에 의한 가상 통화 결제를 지원하는 API를 구현!!
+  - 2017.04.27. https://chromium.googlesource.com/chromium/src.git/+/499dce94255c5175beeb668c2bdd7a9fc8a6576b: chromium git commit
 - 2017.09.15. http://www.fsstech.com/postings-from-indias-ripple-deep-dive-event/: Ripple 'DEEP DIVE' 워크숍 게시
 - 2017.09.18. https://www.the4thwave.co.kr/index.php/2017/09/18/alt_0918_1/: 리플의 혁명 – 비트코인과 이더리움을 넘어서
 - 2017.09.18. https://www.reddit.com/r/Ripple/comments/70ozte/ripple_xrp_and_micropayments/: (레딧) 리플 소액결제 관련 글
