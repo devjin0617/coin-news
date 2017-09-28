@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.25. https://ripple.com/insights/ripple-supports-singapores-fintech-hub-aspirations-with-new-office/: Ripple은 새로운 오피스와 함께 싱가폴의 FintechHub Aspirations을 지원합니다
 - 2017.09.15. http://polarizedlentium.tistory.com/222: 리플 VS SWIFT 해외송금, 해외결제의 혁명
 - 2017.09.20. https://fintechcentralsf.eventfarm.com: 9/27 Fintech central 리플CEO 참여 - 라이브방송 예정
 - 2017.09.18. http://www.dmjtmj-stock.com/entry/2017/09/18/173543: Google, Apple 등이 리플에 의한 가상 통화 결제를 지원하는 API를 구현!!
