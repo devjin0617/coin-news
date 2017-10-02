@@ -64,6 +64,10 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.27. https://mobile-reuters-com.cdn.ampproject.org/c/mobile.reuters.com/article/amp/idUSKCN1C237N: Royal Bank of Canada는 미국 / 캐나다 지불을 위해 블록 체인을 사용합니다
+  - 로얄은행은 hyper ledger를 사용합니다
+  - Hyper Ledger는 ILP를 사용합니다
+  - ILP는 xrp를 브릿지통화로 사용합니다
 - 2017.09.28. https://www.coindesk.com/trump-white-house-doubles-us-commitment-blockchain/: Swell의 기조 연설자 인 Don Tapscott은 Blockchain에 대해 백악관에 자문을 제공합니다.
 - 2017.09.27. https://www.linkedin.com/pulse/sibos-swell-two-visions-future-finance-don-tapscott/?platform=hootsuite: Sibos와 Swell: 금융의 미래를 위한 두가지 비전
   - 번역: https://coinpan.com/xrp/8487093
