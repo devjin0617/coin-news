@@ -64,6 +64,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.28. https://www.coindesk.com/trump-white-house-doubles-us-commitment-blockchain/: Swell의 기조 연설자 인 Don Tapscott은 Blockchain에 대해 백악관에 자문을 제공합니다.
 - 2017.09.27. https://www.linkedin.com/pulse/sibos-swell-two-visions-future-finance-don-tapscott/?platform=hootsuite: Sibos와 Swell: 금융의 미래를 위한 두가지 비전
   - 번역: https://coinpan.com/xrp/8487093
 - 2017.09.25. https://ripple.com/insights/ripple-supports-singapores-fintech-hub-aspirations-with-new-office/: Ripple은 새로운 오피스와 함께 싱가폴의 FintechHub Aspirations을 지원합니다
