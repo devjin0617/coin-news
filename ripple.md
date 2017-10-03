@@ -4,10 +4,6 @@
 
 - 리플에 대해 추가적으로 궁금점이 있으신 분들은 해당 페이지 상단에 `Issues`에 올려주시면 제가 알고 있는 선에서 답변 해드리도록 하겠습니다 :moneybag: [Q&A바로가기](https://github.com/devjin0617/coin-news/issues)
 
-- 카카오톡 오픈채팅에서 리플(XRP)의 가치를 공유할 수 있습니다. (뉴스제보 가능)
-  - 링크: https://open.kakao.com/o/gpDq7mA
-  - 비밀번호: 102030
-
 # 목차
 
 - [홈페이지](#홈페이지)
@@ -475,3 +471,9 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 
 - @jn
 - @jun
+
+# 카카오톡 정보공유
+
+- 카카오톡 오픈채팅에서 리플(XRP)의 가치를 공유할 수 있습니다. (뉴스제보 가능)
+  - 링크: https://open.kakao.com/o/gpDq7mA
+  - 비밀번호: xrpilp
