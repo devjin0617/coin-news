@@ -18,6 +18,8 @@
 - 차이나BTC(chbtc): [https://www.chbtc.com/](https://www.chbtc.com/)
 - 후오비(huobi): [https://www.huobi.com/](https://www.huobi.com/)
 - 오케이코인(okcoin): [https://www.okcoin.com/](https://www.okcoin.com/)
+- 비트파이낸스(bitfinex): [https://www.bitfinex.com](https://www.bitfinex.com)
+- 바이낸스(binance): [https://www.binance.com](https://www.binance.com)
 
 ## 국내
 - 코빗(korbit): [https://korbit.co.kr](https://korbit.co.kr)
