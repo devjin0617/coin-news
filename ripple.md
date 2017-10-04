@@ -61,6 +61,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.03. https://coinidol.com/buy-ripple-on-exmo-at-the-best-rates/: 최상의 가격으로 EXMO에서 Ripple 구입 (배달회사에 리플 플랫폼을 납품, 얼마전 마카오 최대 카지노회사에 납품)
 - 2017.10.03. https://xrphodor.wordpress.com/2017/10/03/xrp-by-the-numbers/: 숫자로 보는 XRP (XRP 분석자료)
 - 2017.10.03. https://www.cryptocoinsnews.com/japans-sbi-launch-digital-currency-instant-payments-purchases: 일본의 SBI, 인스턴트 페이먼트를위한 디지털 통화 개시
 - 2017.09.27. https://mobile-reuters-com.cdn.ampproject.org/c/mobile.reuters.com/article/amp/idUSKCN1C237N: Royal Bank of Canada는 미국 / 캐나다 지불을 위해 블록 체인을 사용합니다
