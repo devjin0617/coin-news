@@ -25,7 +25,11 @@
 - 코빗(korbit): [https://korbit.co.kr](https://korbit.co.kr)
 - 빗썸(bithumb): [https://bithumb.com](https://bithumb.com)
 - 코인원(coinone): [https://coinone.co.kr](https://coinone.co.kr)
-
+- 야피존(yapizon): [https://www.yapizon.com/](https://www.yapizon.com/)
+- 코인플러그 디지털 자산 거래소(CPDAX): [https://www.cpdax.com/](https://www.cpdax.com/)
+- 코인링크(coinlink): [https://coinlink.co.kr/](https://coinlink.co.kr/)
+- 코인레일(coinrail): [https://coinrail.co.kr](https://coinrail.co.kr)
+- 업비트(upbit): [https://www.upbit.com](https://www.upbit.com)
 
 # 코인뉴스/정보
 - 중국 가상화폐ICO 규제관련: https://github.com/devjin0617/coin-news/blob/master/contents/011.md
