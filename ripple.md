@@ -71,6 +71,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.04. http://www.investopedia.com/news/imf-chief-lagardes-comments-bitcoin-have-big-implications/: Bitcoin에 대한 IMF Chief Lagarde의 의견은 큰 의미를 갖습니다.
+- 2017.10.04. https://www.quora.com/session/Brad-Garlinghouse/1: 리플 CEO Q&A
 - 2017.10.03. https://coinpan.com/xrp/8851602: (코인판 글) 왜 Ripple이 swift 2.0을 대처하게 될까요?
 - 2017.10.03. https://coinidol.com/buy-ripple-on-exmo-at-the-best-rates/: 최상의 가격으로 EXMO에서 Ripple 구입 (배달회사에 리플 플랫폼을 납품, 얼마전 마카오 최대 카지노회사에 납품)
 - 2017.10.03. https://xrphodor.wordpress.com/2017/10/03/xrp-by-the-numbers/: 숫자로 보는 XRP (XRP 분석자료)
