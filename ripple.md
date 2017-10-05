@@ -71,6 +71,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.04. https://www.cnbc.com/2017/10/04/ripple-ceo-brad-garlinghouse-there-are-too-many-blockchain-tourists.html: '블록 체인 관광객들'은 과학 실험 외에 아무것도하지 않고 있다고 Ripple CEO는 말합니다.
 - 2017.10.04. http://www.investopedia.com/news/imf-chief-lagardes-comments-bitcoin-have-big-implications/: Bitcoin에 대한 IMF Chief Lagarde의 의견은 큰 의미를 갖습니다.
 - 2017.10.04. https://www.quora.com/session/Brad-Garlinghouse/1: 리플 CEO Q&A
   - 구글번역: https://github.com/devjin0617/coin-news/blob/master/contents/012.md
