@@ -71,6 +71,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.06. http://www.sbigroup.co.jp/news/2017/1006_10827.html: SBI 그룹과 미국의 FinTech 기업 R3 사에 의한 일본 내에서의 
+분산 대장 기술 Corda 교육 프로그램의 제공 개시에 대해
 - 2017.10.05. https://www.payments20.com/about-us2/: P20에서 리플이 지불 수단을 위해 DLT관련하여 회의를 진행할 예정
   - 관련언급트위터: https://twitter.com/P20payments/status/915902185304621056
 - 2017.10.05. https://www.profitconfidential.com/cryptocurrency/ripple/daily-ripple-price-forecast-ripple-ceo-hints-send-xrp-10/: 일일 리플 가격 예측 : Ripple CEO, XRP 10 % 상승
