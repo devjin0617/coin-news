@@ -71,6 +71,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.03. http://btcnews.jp/1y6py4rd12862/: 사기 대처 및 ICO 화제 눈에 띄는 JCBA 가상 화폐 교환 사업 합동 기자 회견 보고서 → 본문 중간에 SBI거래소에 BTC뿐만아니라 XRP도 당연히 처리 된다고 언급
 - 2017.07.05. http://www.creeppler.xyz/entry/2017/07/05/210453: R3, Ripple간 소송내용
 - 2017.10.06. http://www.sbigroup.co.jp/news/2017/1006_10827.html: SBI 그룹과 미국의 FinTech 기업 R3 사에 의한 일본 내에서의 
 분산 대장 기술 Corda 교육 프로그램의 제공 개시에 대해
