@@ -18,18 +18,19 @@
 - 차이나BTC(chbtc): [https://www.chbtc.com/](https://www.chbtc.com/)
 - 후오비(huobi): [https://www.huobi.com/](https://www.huobi.com/)
 - 오케이코인(okcoin): [https://www.okcoin.com/](https://www.okcoin.com/)
-- 비트파이낸스(bitfinex): [https://www.bitfinex.com](https://www.bitfinex.com)
+- 비트파이낸스(bitfinex): [https://www.bitfinex.com](https://www.bitfinex.com) - 해킹사례있음
 - 바이낸스(binance): [https://www.binance.com](https://www.binance.com)
 
 ## 국내
 - 코빗(korbit): [https://korbit.co.kr](https://korbit.co.kr)
-- 빗썸(bithumb): [https://bithumb.com](https://bithumb.com)
+- 빗썸(bithumb): [https://bithumb.com](https://bithumb.com) - 회원정보 유출사례있음
 - 코인원(coinone): [https://coinone.co.kr](https://coinone.co.kr)
-- 야피존(yapizon): [https://www.yapizon.com/](https://www.yapizon.com/)
+- 야피존(yapizon): [https://www.yapizon.com/](https://www.yapizon.com/) - 거래소지갑 해킹사례있음
 - 코인플러그 디지털 자산 거래소(CPDAX): [https://www.cpdax.com/](https://www.cpdax.com/)
 - 코인링크(coinlink): [https://coinlink.co.kr/](https://coinlink.co.kr/)
 - 코인레일(coinrail): [https://coinrail.co.kr](https://coinrail.co.kr)
 - 업비트(upbit): [https://www.upbit.com](https://www.upbit.com)
+- 코인이즈(coinis): [http://www.coinis.co.kr](http://www.coinis.co.kr) - 거래소지갑 해킹사례있음
 
 # 코인뉴스/정보
 - 중국 가상화폐ICO 규제관련: https://github.com/devjin0617/coin-news/blob/master/contents/011.md
