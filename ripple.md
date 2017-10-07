@@ -52,6 +52,7 @@
 - 공식홈페이지: https://ripple.com/
 - 대체지갑사이트(Gatehub): https://signin.gatehub.net
 - 리플 노드 전체현황: https://xrpcharts.ripple.com/#/topology
+- Ripple github: https://github.com/ripple
 - awesome-ripple: https://github.com/vhpoet/awesome-ripple
 - 거래소별 리플 볼륨: https://www.coinhills.com/market/exchange/rank-for/xrp/
 - 주소별 거래현황: https://xrpcharts.ripple.com/#/graph
@@ -71,6 +72,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.08. https://github.com/ripple/ripple-dot-net: 리플 C# .Net 코드 공개
 - 2017.09.11. https://twitter.com/xrptips/status/907448961346048000: 이더리움의 비탈릭이 리플에 합류하려 했지만 비자문제로 합류하지 못하고, 그 이후 이더리움을 개발. → 비탈릭이 트위터 리트윗으로 사실이라고 언급
 - 2017.10.05. https://twitter.com/Ripple/status/916083865059434496: 심포지엄에서 리플강연
 - 2017.10.03. http://btcnews.jp/1y6py4rd12862/: 사기 대처 및 ICO 화제 눈에 띄는 JCBA 가상 화폐 교환 사업 합동 기자 회견 보고서 → 본문 중간에 SBI거래소에 BTC뿐만아니라 XRP도 당연히 처리 된다고 언급
