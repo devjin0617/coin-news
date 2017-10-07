@@ -33,6 +33,7 @@
 - 코인이즈(coinis): [http://www.coinis.co.kr](http://www.coinis.co.kr) - 거래소지갑 해킹사례있음
 
 # 코인뉴스/정보
+- 소프트포크와 하드포크 의미: https://www.ddengle.com/bitcoindeveloper_voted/1588253
 - 중국 가상화폐ICO 규제관련: https://github.com/devjin0617/coin-news/blob/master/contents/011.md
 - 코인원에 이틀간 디도스 공격...가상화폐 거래고객 불안 증폭: http://m.news.naver.com/read.nhn?mode=LSD&mid=sec&sid1=101&oid=011&aid=0003102059
 - 中, '가상화폐공개(ICO)' 전면금지 고려: http://m.news.einfomax.co.kr/news/articleView.html?idxno=3409373
