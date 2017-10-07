@@ -56,6 +56,7 @@
 - awesome-ripple: https://github.com/vhpoet/awesome-ripple
 - 거래소별 리플 볼륨: https://www.coinhills.com/market/exchange/rank-for/xrp/
 - 주소별 거래현황: https://xrpcharts.ripple.com/#/graph
+- Reddit(Ripple): https://www.reddit.com/r/Ripple/
 - 현재 대부분 은행의 송금시스템(SWIFT망): https://namu.wiki/w/SWIFT%20%EC%BD%94%EB%93%9C
 - 리플이 뭔가요? 일반인을 위한 강좌: https://www.youtube.com/watch?v=2cvBwd-OIdw&feature=youtu.be
 - 비트코인과 리플 발행량 비교 및 잘정리된 블로그: https://steemit.com/kr/@k2love/xrp
