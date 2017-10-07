@@ -8,6 +8,7 @@
 
 # 관련뉴스 (최신순)
 
+- https://www.youtube.com/watch?v=0SDzfKXDLlM&feature=youtu.be: 김보성/윤송아 비트코인으로 일주일 살아보기 (TV 프로그램)
 - http://cm.getnews.co.kr/view.php?ud=BI10150317668842246731f3_16&md=2017091015_A#04z5: [글로벌마켓분석-유럽] 스위스 키아소, "내년부터 비트코인 세금납부 허용"
 - http://theblockchain.kr/article-451: 비트코인 직불카드, 유럽 외의 지역에서 서비스 중지…각국 규제 움직임 의식
 - https://cointelegraph.com/news/japan-financial-services-agency-claims-that-50-bitcoin-exchanges-filed-for-license: 일본내에서 비트코인 거래
