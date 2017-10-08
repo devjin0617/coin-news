@@ -73,6 +73,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.08. https://steemit.com/crypto/@digitalmutant/ripple-meets-ethereum-exrp: (루머) EXRP 관련 글 - Ripple과 Ethereum의 만남
 - 2017.10.07. https://coinpan.com/xrp/9158065: (커뮤니티 글) 리플, 암호화화폐 경력 4 년 미만의 내가 암호 통화 XRP에 투자 한 이유를 정리해 보았습니다 2017년판
 - 2017.10.08. https://github.com/ripple/ripple-dot-net: 리플 C# .Net 코드 공개
 - 2017.09.11. https://twitter.com/xrptips/status/907448961346048000: 이더리움의 비탈릭이 리플에 합류하려 했지만 비자문제로 합류하지 못하고, 그 이후 이더리움을 개발. → 비탈릭이 트위터 리트윗으로 사실이라고 언급
