@@ -74,7 +74,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
-- 2017.10.08. https://twitter.com/xrpglobal/status/917003072215420928: 한국 리플관계업체에서 1.9억 달러치 XRP구입 (한화 약 2180억원)
+- 2017.10.08. https://twitter.com/xrpglobal/status/917003072215420928: 한국 ~~리플관계업체~~에서 1.9억 달러치 ~~XRP구입~~ 거래량 돌파 (한화 약 2180억원)
 - 2017.10.08. https://steemit.com/crypto/@digitalmutant/ripple-meets-ethereum-exrp: (루머) EXRP 관련 글 - Ripple과 Ethereum의 만남
 - 2017.10.07. https://coinpan.com/xrp/9158065: (커뮤니티 글) 리플, 암호화화폐 경력 4 년 미만의 내가 암호 통화 XRP에 투자 한 이유를 정리해 보았습니다 2017년판
 - 2017.10.08. https://github.com/ripple/ripple-dot-net: 리플 C# .Net 코드 공개
