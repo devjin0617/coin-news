@@ -75,6 +75,7 @@
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
 - 2017.10.10. https://ripple.com/insights/ripplenet-grows-to-over-100-financial-institutions/?platform=hootsuite: (공식) RippleNet, 100 개가 넘는 금융 기관으로 성장
+  - SEB: "Ripple의 솔루션을 통해 고객은 스웨덴과 뉴욕의 SEB 계정간에 실시간 전송을 전송할 수 있습니다. 우리는 우리가 운영하는 모든 지역 및 시간대에 솔루션을 확장 할 계획입니다. "
 - 2017.10.10. https://twitter.com/sbigroup/status/917671717740306432: SBIGroup 공식트윗에서 SBI 레밋 언급
   - SBI레밋은 리플로 실 송금 서비스 제공하고 있음: https://www.remit.co.jp/img/pdf/20170630_ja.pdf
 - 2017.10.08. https://twitter.com/xrpglobal/status/917003072215420928: 한국 ~~리플관계업체~~에서 1.9억 달러치 ~~XRP구입~~ 거래량 돌파 (한화 약 2180억원)
