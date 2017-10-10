@@ -540,4 +540,4 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 
 - 카카오톡 오픈채팅에서 리플(XRP)의 가치를 공유할 수 있습니다. (뉴스제보 가능)
   - 링크: https://open.kakao.com/o/gpDq7mA
-  - 비밀번호: xrpilp
+  - 비밀번호: xrpswell
