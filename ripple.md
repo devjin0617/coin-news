@@ -74,6 +74,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.02. https://js.foundation/community/js-devs-zone/episode-2-interledger-js-enabling-cross-ledger-payments: JS Foundation: Interledger 프로토콜 스택의 JavaScript 참조 구현 자료 공개
+  - Interledger는 서로 다른 원장간에 지불을 보내는 공개 프로토콜입니다. 인터넷상의 라우터와 마찬가지로 커넥터는 독립된 지불 네트워크를 통해 화폐 금액을 전달합니다. 공개 아키텍처 및 최소 프로토콜은 모든 가치 전달 시스템에 대한 상호 운용성을 가능하게합니다. 중개인은 한 회사, 블록 체인 또는 통화에 묶여 있지 않습니다.
 - 2017.10.10. https://ripple.com/insights/ripplenet-grows-to-over-100-financial-institutions/?platform=hootsuite: (공식) RippleNet, 100 개가 넘는 금융 기관으로 성장
   - SEB: "Ripple의 솔루션을 통해 고객은 스웨덴과 뉴욕의 SEB 계정간에 실시간 전송을 전송할 수 있습니다. 우리는 우리가 운영하는 모든 지역 및 시간대에 솔루션을 확장 할 계획입니다. "
 - 2017.10.10. https://twitter.com/sbigroup/status/917671717740306432: SBIGroup 공식트윗에서 SBI 레밋 언급
