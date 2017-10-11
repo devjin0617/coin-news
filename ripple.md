@@ -74,6 +74,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.11. http://m.biz.chosun.com/svc/article.html?contid=2017101101912: (국내기사) 가상화폐 '리플코인', 고객사 100곳 넘었다
+- 2017.10.11. http://www.sbigroup.co.jp/news/2017/1011_10831.html: 업계를 넘어 24 개사가 모여 'Beyond Blockchain 기술 프로그램 "시작 
 - 2017.10.02. https://js.foundation/community/js-devs-zone/episode-2-interledger-js-enabling-cross-ledger-payments: JS Foundation: Interledger 프로토콜 스택의 JavaScript 참조 구현 자료 공개
   - Interledger는 서로 다른 원장간에 지불을 보내는 공개 프로토콜입니다. 인터넷상의 라우터와 마찬가지로 커넥터는 독립된 지불 네트워크를 통해 화폐 금액을 전달합니다. 공개 아키텍처 및 최소 프로토콜은 모든 가치 전달 시스템에 대한 상호 운용성을 가능하게합니다. 중개인은 한 회사, 블록 체인 또는 통화에 묶여 있지 않습니다.
 - 2017.10.10. https://ripple.com/insights/ripplenet-grows-to-over-100-financial-institutions/?platform=hootsuite: (공식) RippleNet, 100 개가 넘는 금융 기관으로 성장
