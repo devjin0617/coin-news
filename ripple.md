@@ -77,6 +77,8 @@
 - 2017.10.03. http://www.newsbtc.com/2017/10/03/new-xrp-gateway-will-launched-ripple-exchange/: Ripple Exchange에서 새로운 XRP 게이트웨이 출시 예정
   - http://rippleexchange.io/ 이 웹사이트는 2017.4 에 개발시작 (2017.10.12 기준 갑자기 접속 안됨)
   - Google의 정보에 따르면 이 플랫폼의 초기 출시는 2017.10.15 시작. 해당 릴리즈는 Ripple Swell Conference와 일치함.
+- 2017.10.11. https://twitter.com/tenitoshi/status/918085182199971841: (트윗) 리플관련 트윗 내용
+  - SWELL에 대해 Joelkatz가 오늘 채팅으로 얘기 했다. 5 월의 Consensus 회의 개최 전에 뉴스를 누출 했다 때문에 회의에 기대 하는 모두를 실망 시킨 것을 유감 스럽게 묻는 듯하다. 이번에는 다시 하지 않는다. 이므로 SWELL에서는 어젯밤 XRP 브리지 송금 이외에도 뉴스가 나올 것 이다.
 - 2017.10.11. https://m.timesofindia.com/business/india-business/now-quicker-gulf-remittances-with-blockchain-push/amp_articleshow/61028805.cms: 블록 체인 푸시로 더 빨리 걸프 송금
 - 2017.10.11. http://m.biz.chosun.com/svc/article.html?contid=2017101101912: (국내기사) 가상화폐 '리플코인', 고객사 100곳 넘었다
 - 2017.10.11. http://www.sbigroup.co.jp/news/2017/1011_10831.html: 업계를 넘어 24 개사가 모여 'Beyond Blockchain 기술 프로그램 "시작 
