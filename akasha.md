@@ -11,3 +11,4 @@
 
 - 공식홈페이지: https://akasha.world/
 - 공식트위터: https://twitter.com/AkashaProject
+- 공식블로그: https://blog.akasha.world/
