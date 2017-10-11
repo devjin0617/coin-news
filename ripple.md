@@ -66,14 +66,15 @@
 - 리플(XRP) 일정: https://www.xrpchat.com/calendar/
 - Ripple 2017.10 SWELL Agenda: https://swell.ripple.com/agenda/
 - Ripple Exchange(LLC): XRP 구매 프로세스 간소화
-  - https://twitter.com/Ripple_Exchange
-  - http://rippleexchange.io/
-  - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
+  - https://twitter.com/Ripple_Exchange: 계정이 갑자기 사라짐
+  - http://rippleexchange.io/: 웹서버가 갑자기 닫혀있음
+  - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
 
 # 관련뉴스
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.11. https://m.timesofindia.com/business/india-business/now-quicker-gulf-remittances-with-blockchain-push/amp_articleshow/61028805.cms: 블록 체인 푸시로 더 빨리 걸프 송금
 - 2017.10.11. http://m.biz.chosun.com/svc/article.html?contid=2017101101912: (국내기사) 가상화폐 '리플코인', 고객사 100곳 넘었다
 - 2017.10.11. http://www.sbigroup.co.jp/news/2017/1011_10831.html: 업계를 넘어 24 개사가 모여 'Beyond Blockchain 기술 프로그램 "시작 
 - 2017.10.02. https://js.foundation/community/js-devs-zone/episode-2-interledger-js-enabling-cross-ledger-payments: JS Foundation: Interledger 프로토콜 스택의 JavaScript 참조 구현 자료 공개
