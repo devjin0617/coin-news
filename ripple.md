@@ -66,9 +66,9 @@
 - 리플(XRP) 일정: https://www.xrpchat.com/calendar/
 - Ripple 2017.10 SWELL Agenda: https://swell.ripple.com/agenda/
 - Ripple Exchange(LLC): XRP 구매 프로세스 간소화
-  - https://twitter.com/Ripple_Exchange: 계정이 갑자기 사라짐
-  - http://rippleexchange.io/: 웹서버가 갑자기 닫혀있음
-  - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
+  - https://twitter.com/Ripple_Exchange: 계정이 갑자기 사라짐
+  - http://rippleexchange.io/: 웹서버가 갑자기 닫혀있음
+  - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
 
 # 관련뉴스
 
