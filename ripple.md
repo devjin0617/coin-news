@@ -74,6 +74,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.11. https://www.theregister.co.uk/2017/10/11/hackers_swift_taiwan/: 해커들은 맞춤형 SWIFT 공격으로 대만 은행으로부터 6 천만 달러의 손해를 입혔습니다.
+- 2017.10.12. https://coinpan.com/xrp/9572445: (커뮤니티글) 리플 해외 가격예측.뉴스정보
 - 2017.10.03. http://www.newsbtc.com/2017/10/03/new-xrp-gateway-will-launched-ripple-exchange/: Ripple Exchange에서 새로운 XRP 게이트웨이 출시 예정
   - http://rippleexchange.io/ 이 웹사이트는 2017.4 에 개발시작 (2017.10.12 기준 갑자기 접속 안됨)
   - Google의 정보에 따르면 이 플랫폼의 초기 출시는 2017.10.15 시작. 해당 릴리즈는 Ripple Swell Conference와 일치함.
