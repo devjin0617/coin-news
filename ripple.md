@@ -69,6 +69,7 @@
   - https://twitter.com/Ripple_Exchange: 계정이 갑자기 사라짐
   - http://rippleexchange.io/: 웹서버가 갑자기 닫혀있음
   - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
+- 리플관련정리 개인블로그: http://polarizedlentium.tistory.com
 
 # 관련뉴스
 
