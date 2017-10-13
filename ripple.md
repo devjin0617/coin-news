@@ -74,6 +74,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.12. https://www.forbes.com/sites/tomgroenfeldt/2017/10/12/ben-bernanke-and-tim-berners-lee-headliners-at-first-ripple-swell-finance-conference/#1a8457fb148a: 벤 버냉키 (Ben Bernanke)와 팀 버너스 - 리 (Tim Berners-Lee)의 첫 번째 리플 금융 컨퍼런스에서 저명 인사
 - 2017.10.10. https://www.ft.com/content/8dcd3fa4-adbb-11e7-beba-5521c713abf4: 블록체인 회사 Ripple은 15억달러 규모의 자금을 보유하고 있다고 말합니다
 - 2017.10.13. https://ripple.com/insights/ripple-rolls-300m-ripplenet-accelerator-program-grow-volume-xrp-utility/: Ripple, 3억 달러 규모의 RippleNet Accelerator 프로그램 출시
 - 2017.10.11. https://www.theregister.co.uk/2017/10/11/hackers_swift_taiwan/: 해커들은 맞춤형 SWIFT 공격으로 대만 은행으로부터 6 천만 달러의 손해를 입혔습니다.
