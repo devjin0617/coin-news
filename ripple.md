@@ -563,4 +563,4 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 
 - 리플 방향성/기술적검증 위해 여러자료를 공유할 수 있습니다. (차트는 관심없는 방)
   - 링크: https://open.kakao.com/o/gBjPuCB
-  - 비밀번호: 오픈전입니다.
+  - 비밀번호: rpNhcif9dgrPPcvTNPovx7df6JTtkfncu7, 39
