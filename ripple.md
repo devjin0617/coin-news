@@ -74,6 +74,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.13. https://ripple.com/insights/ripple-rolls-300m-ripplenet-accelerator-program-grow-volume-xrp-utility/: Ripple, 3 억 달러 규모의 RippleNet Accelerator 프로그램 출시
 - 2017.10.11. https://www.theregister.co.uk/2017/10/11/hackers_swift_taiwan/: 해커들은 맞춤형 SWIFT 공격으로 대만 은행으로부터 6 천만 달러의 손해를 입혔습니다.
 - 2017.10.12. https://coinpan.com/xrp/9572445: (커뮤니티글) 리플 해외 가격예측.뉴스정보
 - 2017.10.03. http://www.newsbtc.com/2017/10/03/new-xrp-gateway-will-launched-ripple-exchange/: Ripple Exchange에서 새로운 XRP 게이트웨이 출시 예정
