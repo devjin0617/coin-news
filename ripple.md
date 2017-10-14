@@ -75,6 +75,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.13. https://apptimes.net/amp/8407/: Sibos 개최까지 앞으로 3 일 Ripple (리플) 사도 출전하지만 SWELL에 주목!
 - 2017.10.14. https://www.xrpchat.com/topic/10628-ripple-south-korea/: (해외개인글) 리플과 한국의 관계
 - 2017.10.12. https://www.forbes.com/sites/tomgroenfeldt/2017/10/12/ben-bernanke-and-tim-berners-lee-headliners-at-first-ripple-swell-finance-conference/#1a8457fb148a: 벤 버냉키 (Ben Bernanke)와 팀 버너스 - 리 (Tim Berners-Lee)의 첫 번째 리플 금융 컨퍼런스에서 저명 인사
 - 2017.10.10. https://www.ft.com/content/8dcd3fa4-adbb-11e7-beba-5521c713abf4: 블록체인 회사 Ripple은 15억달러 규모의 자금을 보유하고 있다고 말합니다
