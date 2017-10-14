@@ -14,6 +14,11 @@ Stratis는 네이티브 C# 및 .Net 엔드-투-엔드 블록 체인 솔루션을
 
 # 뉴스기사 및 링크
 
+- 2017.10.14. https://medium.com/@Stratisplatform/product-development-update-a9dffde81f79: 제품 개발 업데이트
+  - Breeze Wallet
+  - Stratis MasterNodes
+  - Stratis 전체 노드 GUI
+  - Stratis Academy
 - 2017.10.07. https://pf.kakao.com/_mkxoVxl/2825947: 마스터노드 관련 릴리즈예정
 - 2017.10.04. https://mobile.twitter.com/StratTurkiye/status/915309046760132609?s=09: 스트라티스를 통한 첫번째 ICO 날짜 캡쳐
 
