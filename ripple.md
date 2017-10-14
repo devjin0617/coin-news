@@ -75,6 +75,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.11. http://coinpost.jp/?p=6575: 16일 SWELL까지 알아야 할 리플업적과 장래성 
 - 2017.10.14. https://coinpan.com/xrp/9773081: (커뮤니티글) 리플 장기투자 이유를 또 찾다
 - 2017.10.13. https://apptimes.net/amp/8407/: Sibos 개최까지 앞으로 3 일 Ripple (리플) 사도 출전하지만 SWELL에 주목!
 - 2017.10.14. https://www.xrpchat.com/topic/10628-ripple-south-korea/: (해외개인글) 리플과 한국의 관계
