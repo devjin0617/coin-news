@@ -12,7 +12,8 @@
 
 # SWELL 행사기간동안의 링크 수집
 
-- https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite: 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성
+- SWELL 실시간 스트리밍: https://www.youtube.com/watch?v=jWpovqKbcB0
+- 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite: 
 
 # 목차
 
