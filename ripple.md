@@ -24,6 +24,33 @@
 - 리플CEO가 스웰관련해서 엠바고를 언급관련내용(커뮤니티글): https://coinpan.com/free/9576768
 - 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 XRP가 아니라 ILP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
 
+```
+# RippleLabs CEO Q&A
+
+Q: Is ripple working with American Express or Visa?
+A: Can't confirm/deny, this region is filled with confidentiality agreements. Can't talk about it.
+Q: DLocal is now on RippleNet, can we expect xRapid for Uber?
+A: Can't deny/confirm. We don't pre-announce customers until we're ready to confirm them.
+Q: Is AliPay on Xrapid, as they claim 4s payments?
+A: Most likely AliPay is on a single ledger (which can be fast), sort-of-confirmed that it's not Xrapid.
+Q: Is Ripple looking at Coinbase for a partnership?
+A: We'd love to be on Coinbase (no commitment/confirmation)
+Q: What's the state of the 5b in escrow?
+A: It's definitely happening this year (not confirmed that it has happened already)
+
+# 구글번역
+Q : 리플이 American Express 또는 Visa에서 작동합니까?
+A : 확인/거부 할 수 없습니다. 이 지역은 기밀 유지 계약으로 채워져 있습니다. 그것에 대해 말할 수 없습니다.
+Q : DLocal이 RippleNet에 있습니다. Uber에 대해 xRapid를 기대할 수 있습니까?
+A : 거부/확인할 수 없습니다. 고객을 확인할 준비가 될 때까지 고객에게 사전 공지하지 않습니다.
+Q : AliPay는 4p 지불금을 청구하면서 Xrapid에 있습니까?
+A : 대부분의 AliPay는 단 하나의 원장 (빠르다) 일 가능성이 높습니다. Xrapid가 아니라는 것을 일종의 확인했습니다.
+Q : Ripple은 Coinbase를 파트너십으로보고 있습니까?
+A : 우리는 코인베이스에 있기를 원합니다 (약속/확인 없음).
+Q : 에스크로에서 5b의 상태는 무엇입니까?
+A : 그것은 확실히 (이 확인되지 올해 무슨 일이 일어나고 있다 이미 일어난를)
+```
+
 # 목차
 
 - [홈페이지](#홈페이지)
