@@ -14,7 +14,15 @@
 
 - SWELL 실시간 스트리밍(공식): https://www.youtube.com/watch?v=llikxJiSgGo&app=desktop
 - SWELL 실시간 스트리밍: https://www.youtube.com/watch?v=jWpovqKbcB0
-- 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite: 
+- 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite
+- 스웰장소 airship37: http://gall.dcinside.com/board/view/?id=bitcoins&no=803081&page=1
+- 버냉키가 한말과 요약정리(커뮤니티글): https://coinpan.com/xrp/10079280
+- Bitcoin : Bernanke는 실패 할 것 같다고 말한다: http://fortune.com/2017/10/16/bitcoin-bernanke/
+- 버냉키 전 연준 의장의 경고…"비트코인 통화로 실패할 것": http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=018&aid=0003946630&sid1=001
+- Exchange EXMO가 무역 Ripple, Monero 및 Tether에 추가: https://bitmakler.com/birzha-exmo-dobavila-torgovlyu-ripple-monero-i-tether__news_164183
+- SWELL2일차. 리플 블록 체인의 미래는? SWELL 마지막 날에 큰 비밀이있다?: http://coinpost.jp/?p=6933
+- 리플CEO가 스웰관련해서 엠바고를 언급관련내용(커뮤니티글): https://coinpan.com/free/9576768
+- 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 ILP가 아니라 XRP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
 
 # 목차
 
