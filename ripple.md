@@ -22,7 +22,7 @@
 - Exchange EXMO가 무역 Ripple, Monero 및 Tether에 추가: https://bitmakler.com/birzha-exmo-dobavila-torgovlyu-ripple-monero-i-tether__news_164183
 - SWELL2일차. 리플 블록 체인의 미래는? SWELL 마지막 날에 큰 비밀이있다?: http://coinpost.jp/?p=6933
 - 리플CEO가 스웰관련해서 엠바고를 언급관련내용(커뮤니티글): https://coinpan.com/free/9576768
-- 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 ILP가 아니라 XRP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
+- 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 XRP가 아니라 ILP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
 
 # 목차
 
