@@ -9,6 +9,8 @@
 - [이더리움](https://github.com/devjin0617/coin-news/blob/master/ethereum.md)
 - [라이트코인](https://github.com/devjin0617/coin-news/blob/master/litecoin.md)
 - [IOTA](https://github.com/devjin0617/coin-news/blob/master/iota.md)
+- [스트라티스 플랫폼](https://github.com/devjin0617/coin-news/blob/master/stratisplatform.md)
+- [아카샤](https://github.com/devjin0617/coin-news/blob/master/akasha.md): ICO 미정
 
 # 거래소(exchange, 去來所)
 
