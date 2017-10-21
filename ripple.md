@@ -78,6 +78,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.21. https://twitter.com/justinsuntron/status/921652778547666947: TRON에서 리플투자관련 언급
 - 2017.10.20. http://www.livebitcoinnews.com/palm-beach-group-advises-clients-buy-xrp-next-leg/: 팜 비치 그룹 (Palm Beach Group)은 고객들이 다음 레그까지 XRP를 구입할 것을 권고했습니다.
 - 2017.10.20. https://medium.com/@haydentiff/they-cant-stop-what-they-can-t-catch-c8bf870e85a7: Ripple은 기회를 놓치지 않았습니다.
 - 2017.10.20. https://twitter.com/miss_ripple/status/921369556395814912: SBI, VISA의 네트워크를 통해 가상 화폐 결제를 제공 하 고 WIREX과 합병 회사를 설립 했다. (XRP, ETH, DASH 지원)
