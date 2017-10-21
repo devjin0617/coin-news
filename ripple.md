@@ -10,56 +10,6 @@
 
 ```
 
-# SWELL 행사기간동안의 링크 수집
-
-- SWELL 실시간 스트리밍(공식): https://www.youtube.com/watch?v=llikxJiSgGo&app=desktop
-- SWELL 실시간 스트리밍: https://www.youtube.com/watch?v=jWpovqKbcB0
-- 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite
-- 스웰장소 airship37: http://gall.dcinside.com/board/view/?id=bitcoins&no=803081&page=1
-- 버냉키가 한말과 요약정리(커뮤니티글): https://coinpan.com/xrp/10079280
-- Bitcoin : Bernanke는 실패 할 것 같다고 말한다: http://fortune.com/2017/10/16/bitcoin-bernanke/
-- 버냉키 전 연준 의장의 경고…"비트코인 통화로 실패할 것": http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=018&aid=0003946630&sid1=001
-- Exchange EXMO가 무역 Ripple, Monero 및 Tether에 추가: https://bitmakler.com/birzha-exmo-dobavila-torgovlyu-ripple-monero-i-tether__news_164183
-- SWELL2일차. 리플 블록 체인의 미래는? SWELL 마지막 날에 큰 비밀이있다?: http://coinpost.jp/?p=6933
-- 리플CEO가 스웰관련해서 엠바고를 언급관련내용(커뮤니티글): https://coinpan.com/free/9576768
-- 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 XRP가 아니라 ILP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
-
-```
-# RippleLabs CEO Q&A
-
-Q: Is ripple working with American Express or Visa?
-A: Can't confirm/deny, this region is filled with confidentiality agreements. Can't talk about it.
-Q: DLocal is now on RippleNet, can we expect xRapid for Uber?
-A: Can't deny/confirm. We don't pre-announce customers until we're ready to confirm them.
-Q: Is AliPay on Xrapid, as they claim 4s payments?
-A: Most likely AliPay is on a single ledger (which can be fast), sort-of-confirmed that it's not Xrapid.
-Q: Is Ripple looking at Coinbase for a partnership?
-A: We'd love to be on Coinbase (no commitment/confirmation)
-Q: What's the state of the 5b in escrow?
-A: It's definitely happening this year (not confirmed that it has happened already)
-
-# 구글번역
-Q : 리플이 American Express 또는 Visa에서 작동합니까?
-A : 확인/거부 할 수 없습니다. 이 지역은 기밀 유지 계약으로 채워져 있습니다. 그것에 대해 말할 수 없습니다.
-Q : DLocal이 RippleNet에 있습니다. Uber에 대해 xRapid를 기대할 수 있습니까?
-A : 거부/확인할 수 없습니다. 고객을 확인할 준비가 될 때까지 고객에게 사전 공지하지 않습니다.
-Q : AliPay는 4p 지불금을 청구하면서 Xrapid에 있습니까?
-A : 대부분의 AliPay는 단 하나의 원장 (빠르다) 일 가능성이 높습니다. Xrapid가 아니라는 것을 일종의 확인했습니다.
-Q : Ripple은 Coinbase를 파트너십으로보고 있습니까?
-A : 우리는 코인베이스에 있기를 원합니다 (약속/확인 없음).
-Q : 에스크로에서 5b의 상태는 무엇입니까?
-A : 그것은 확실히 (이 확인되지 올해 무슨 일이 일어나고 있다 이미 일어난를)
-
-# ㅇㅅㅎ님 정리
-1.에스크로 올해안에 100% 현실화
-2.여러 고객들과 이 시스템을 나눌수 있어서 좋다.
-3.알리페이에 관한 루머가 사실인가? 알리페이와 경쟁상대인가? 아니면 알리페이가 리플을 쓰는가? : 디로컬,알리페이 등 글로벌거래에 리플이 연결고리가 될 수있다.
-4.코인베이스 익스체인지에 리플은 이미 완벽히 파악하고 있고 준비중에 있다. 리플은 성장 더 성장할것이다.
-5.리플과 XRP는 똑같은거고 결제문제를 해결할 수단과 해결방안이 될수 있고 리플이 블락체인 모두를 커버할수 있다. 모든 회사들이 여기에 탑승하기를 바란다. 난 하루,3일 보는게 아니라 3년 5년을 보고있다. 은행들의 수천억을 감당할 것이라 본다.
-6.리플은 절대 버블이 없고 아니다.
-7.중대발표할 내용은 우리와 고객들이 준비가 되었을때 할수 있다.
-```
-
 # 목차
 
 - [홈페이지](#홈페이지)
@@ -93,6 +43,7 @@ A : 그것은 확실히 (이 확인되지 올해 무슨 일이 일어나고 있�
   - [R3와 리플의 맞고소 사건](#r3와-리플의-맞고소-사건)
   - [이더리움과 리플](#이더리움과-리플)
   - [리플 질답글](#리플-질답글)
+  - [SWELL기간 리플랩스CEO 질답](#SWELL기간-리플랩스CEO-질답)
 - [기부](#기부)
   - [기부 정보](#기부-정보)
   - [기부자 목록](#기부자-목록)
@@ -125,6 +76,17 @@ A : 그것은 확실히 (이 확인되지 올해 무슨 일이 일어나고 있�
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- SWELL: SWELL 실시간 스트리밍(공식): https://www.youtube.com/watch?v=llikxJiSgGo&app=desktop
+- SWELL: SWELL 실시간 스트리밍: https://www.youtube.com/watch?v=jWpovqKbcB0
+- SWELL: 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite
+- SWELL: 스웰장소 airship37: http://gall.dcinside.com/board/view/?id=bitcoins&no=803081&page=1
+- SWELL: 버냉키가 한말과 요약정리(커뮤니티글): https://coinpan.com/xrp/10079280
+- SWELL: Bitcoin : Bernanke는 실패 할 것 같다고 말한다: http://fortune.com/2017/10/16/bitcoin-bernanke/
+- SWELL: 버냉키 전 연준 의장의 경고…"비트코인 통화로 실패할 것": http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=018&aid=0003946630&sid1=001
+- SWELL: Exchange EXMO가 무역 Ripple, Monero 및 Tether에 추가: https://bitmakler.com/birzha-exmo-dobavila-torgovlyu-ripple-monero-i-tether__news_164183
+- SWELL: SWELL2일차. 리플 블록 체인의 미래는? SWELL 마지막 날에 큰 비밀이있다?: http://coinpost.jp/?p=6933
+- SWELL: 리플CEO가 스웰관련해서 엠바고를 언급관련내용(커뮤니티글): https://coinpan.com/free/9576768
+- SWELL: 모두가 큰 그림을 놓치고 있습니다. SWELL의 초점은 XRP가 아니라 ILP입니다!: https://www.xrpchat.com/topic/10863-everyone-is-missing-the-big-picture-focus-of-swell-is-on-ilp-and-not-xrp/
 - 2017.10.16. http://www.businesswire.com/news/home/20171014005005/en/Ripple-Host-Swell-Future: 리플 SWELL 일정공개
 - 2017.10.11. http://coinpost.jp/?p=6575: 16일 SWELL까지 알아야 할 리플업적과 장래성 
 - 2017.10.14. https://coinpan.com/xrp/9773081: (커뮤니티글) 리플 장기투자 이유를 또 찾다
@@ -561,7 +523,7 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
 - https://youtu.be/fbEtivJIfIU?t=11m15s 11:10~11:40 사이에서 확인할 수 있습니다.
 
 > 비탈릭 : my first coperation term working for ripple in the u.s. 
-  ripple variance company it`s creating another second-generation version of bitcoin 
+  ripple variance company its creating another second-generation version of bitcoin 
   unforunately a whole bunch of immigration visa stupdity happends and after about a month they
   gave up trying to get in.
   
@@ -591,6 +553,41 @@ SWELL => SWIFT + RIPPLE 이였던 것.~~ -> 장소만 같고 SWIFT랑 같이 진
   - 또 미국이 그 정책을 취할 방침인면 요즘도 BTC가 규제의 길에 들고 있도록 시장을 독점할 위험성이 있는 XRP등은 가장 먼저 규제 대상이 될 것입니다만, 그다지 그런 움직임은 없습니다.
 - 정리
   - 어땠나요!XRP가 다른 통화로 전환되는 가능성을 우려하고 있는 오래 계실 겁니다.앞에서도 썼지만 현 시점에서 가장중대한 XRP의 과제는 페그된 통화 적음으로 역시 유동성 낮다라고 생각합니다.
+  
+### SWELL기간 리플랩스CEO 질답
+
+#### 요약
+- Q: Is ripple working with American Express or Visa?
+- A: Can't confirm/deny, this region is filled with confidentiality agreements. Can't talk about it.
+- Q: DLocal is now on RippleNet, can we expect xRapid for Uber?
+- A: Can't deny/confirm. We don't pre-announce customers until we're ready to confirm them.
+- Q: Is AliPay on Xrapid, as they claim 4s payments?
+- A: Most likely AliPay is on a single ledger (which can be fast), sort-of-confirmed that it's not Xrapid.
+- Q: Is Ripple looking at Coinbase for a partnership?
+- A: We'd love to be on Coinbase (no commitment/confirmation)
+- Q: What's the state of the 5b in escrow?
+- A: It's definitely happening this year (not confirmed that it has happened already)
+
+#### 구글번역
+- Q : 리플이 American Express 또는 Visa에서 작동합니까?
+- A : 확인/거부 할 수 없습니다. 이 지역은 기밀 유지 계약으로 채워져 있습니다. 그것에 대해 말할 수 없습니다.
+- Q : DLocal이 RippleNet에 있습니다. Uber에 대해 xRapid를 기대할 수 있습니까?
+- A : 거부/확인할 수 없습니다. 고객을 확인할 준비가 될 때까지 고객에게 사전 공지하지 않습니다.
+- Q : AliPay는 4p 지불금을 청구하면서 Xrapid에 있습니까?
+- A : 대부분의 AliPay는 단 하나의 원장 (빠르다) 일 가능성이 높습니다. Xrapid가 아니라는 것을 일종의 확인했습니다.
+- Q : Ripple은 Coinbase를 파트너십으로보고 있습니까?
+- A : 우리는 코인베이스에 있기를 원합니다 (약속/확인 없음).
+- Q : 에스크로에서 5b의 상태는 무엇입니까?
+- A : 그것은 확실히 (이 확인되지 올해 무슨 일이 일어나고 있다 이미 일어난를)
+
+#### ㅇㅅㅎ님 정리
+- 에스크로 올해안에 100% 현실화
+- 여러 고객들과 이 시스템을 나눌수 있어서 좋다.
+- 알리페이에 관한 루머가 사실인가? 알리페이와 경쟁상대인가? 아니면 알리페이가 리플을 쓰는가? : 디로컬,알리페이 등 글로벌거래에 리플이 연결고리가 될 수있다.
+- 코인베이스 익스체인지에 리플은 이미 완벽히 파악하고 있고 준비중에 있다. 리플은 성장 더 성장할것이다.
+- 리플과 XRP는 똑같은거고 결제문제를 해결할 수단과 해결방안이 될수 있고 리플이 블락체인 모두를 커버할수 있다. 모든 회사들이 여기에 탑승하기를 바란다. 난 하루,3일 보는게 아니라 3년 5년을 보고있다. 은행들의 수천억을 감당할 것이라 본다.
+- 리플은 절대 버블이 없고 아니다.
+- 중대발표할 내용은 우리와 고객들이 준비가 되었을때 할 수 있다.
 
 # 기부
 
