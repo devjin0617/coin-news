@@ -35,6 +35,7 @@
 - 코인이즈(coinis): [http://www.coinis.co.kr](http://www.coinis.co.kr) - 거래소지갑 해킹사례있음
 
 # 코인뉴스/정보
+- 가상화폐관련 블로그(국내): http://kr-kaykim.tistory.com
 - 가상화폐일정: http://coinmarketcal.com/
 - 소프트포크와 하드포크 의미: https://www.ddengle.com/bitcoindeveloper_voted/1588253
 - 중국 가상화폐ICO 규제관련: https://github.com/devjin0617/coin-news/blob/master/contents/011.md
