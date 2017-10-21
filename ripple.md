@@ -72,7 +72,8 @@
   - http://rippleexchange.io/: 웹서버가 갑자기 닫혀있음
   - https://medium.com/@chennighan/ripple-exchange-simplifying-the-xrp-purchase-process-9a0cfde558a9
 - 리플관련정리 개인블로그: http://polarizedlentium.tistory.com
-- Discord XRP 해외커뮤니티: https://discord.gg/C4xcYNN 
+- Discord XRP 해외커뮤니티: https://discord.gg/C4xcYNN
+- 리플과거위키(공식도메인): https://wiki.ripple.com/Introduction_to_Ripple_for_Bitcoiners
 
 # 관련뉴스
 
