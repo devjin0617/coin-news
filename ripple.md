@@ -76,6 +76,12 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.20. http://www.livebitcoinnews.com/palm-beach-group-advises-clients-buy-xrp-next-leg/: 팜 비치 그룹 (Palm Beach Group)은 고객들이 다음 레그까지 XRP를 구입할 것을 권고했습니다.
+- 2017.10.20. https://medium.com/@haydentiff/they-cant-stop-what-they-can-t-catch-c8bf870e85a7: Ripple은 기회를 놓치지 않았습니다.
+- 2017.10.20. https://twitter.com/miss_ripple/status/921369556395814912: SBI, VISA의 네트워크를 통해 가상 화폐 결제를 제공 하 고 WIREX과 합병 회사를 설립 했다. (XRP, ETH, DASH 지원)
+- 2017.10.18. https://github.com/devjin0617/coin-news/blob/master/contents/014.md: (SBI홀딩스관련) Crypto payment app Wirex, 일본인 CEO 인 Kojima Watar와 아시아 대표를 임명
+- 2017.10.18. https://github.com/devjin0617/coin-news/blob/master/contents/013.md: (해외 커뮤니티 종합) XRP 투자자 업데이트 : 포스트 스웰 버전
+- 2017.10.16. http://blog.naver.com/aafdsa11/221118391522: (개인 블로그) 비트코인과 리플코인 투자방법 지침(상놈이 되지말고 양반이 되어라)
 - SWELL: SWELL 실시간 스트리밍(공식): https://www.youtube.com/watch?v=llikxJiSgGo&app=desktop
 - SWELL: SWELL 실시간 스트리밍: https://www.youtube.com/watch?v=jWpovqKbcB0
 - SWELL: 리플 & 게이츠 재단, 가난한 사람들을위한 경제 재생 분야를 높이기위한 팀 구성: https://ripple.com/insights/ripple-the-gates-foundation-team-up-to-level-the-economic-playing-field-for-the-poor/?platform=hootsuite
