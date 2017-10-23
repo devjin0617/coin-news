@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.13. http://www.bitcoin77777.com/2017/10/13/114353: AI가 2018 년 가을의 가상 통화의 가격을 예측 엉뚱한에! 비트 코인 비트 코인 캐시, 리플, 이시 리움 라이트 코인 대시 네오 등
 - 2017.10.19. https://cointelegraph.com/news/japanese-ripple-crypto-exchange-takes-hit-as-founder-arrested-for-scam: 사기죄로 체포 된 창립자가 일본의 리플 암호화 거래소에 타격
 - 2017.06.xx. https://www.reddit.com/r/Ripple/comments/6izvl6/visa_looking_for_blockchain_engineer_with_ripple/?st=j8vwnznz&sh=667e0c02: 리플 Ripple) 경험을 가진 Blockchain 엔지니어를 찾고있는 VISA
 - 2017.10.20. https://futurism.com/the-gates-foundation-just-launched-a-blockchain-powered-mobile-payment-system/: 게이츠 재단, Blockchain-Powered 모바일 결제 시스템 출시
