@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.20. https://futurism.com/the-gates-foundation-just-launched-a-blockchain-powered-mobile-payment-system/: 게이츠 재단, Blockchain-Powered 모바일 결제 시스템 출시
 - 2017.10.21. https://steemit.com/ripple/@kimhyuckjun/kr-ripple-2017-3-xrp: (번역) 2017년 3분기 XRP 시장보고서
 - 2017.10.21. https://twitter.com/justinsuntron/status/921652778547666947: TRON에서 리플투자관련 언급
 - 2017.10.20. http://www.livebitcoinnews.com/palm-beach-group-advises-clients-buy-xrp-next-leg/: 팜 비치 그룹 (Palm Beach Group)은 고객들이 다음 레그까지 XRP를 구입할 것을 권고했습니다.
