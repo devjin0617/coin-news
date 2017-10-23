@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.19. http://biz.chosun.com/site/data/html_dir/2017/10/19/2017101901020.html: SBI홀딩스·구글, 블록체인 기업 투자 규모 1, 2위 (두 회사는 리플랩스와 긴밀한 관계를 유지중)
 - 2017.10.21. https://www.xrpchat.com/topic/11056-xrp-ii-benefits-xrp-yes-no-maybe-so/?tab=comments#comment-111778: XRP-II는 XRP에 이점이 있습니까? - 조엘카츠가 직접답변
 - 2017.10.13. http://www.bitcoin77777.com/2017/10/13/114353: AI가 2018 년 가을의 가상 통화의 가격을 예측 엉뚱한에! 비트 코인 비트 코인 캐시, 리플, 이시 리움 라이트 코인 대시 네오 등
 - 2017.10.19. https://cointelegraph.com/news/japanese-ripple-crypto-exchange-takes-hit-as-founder-arrested-for-scam: 사기죄로 체포 된 창립자가 일본의 리플 암호화 거래소에 타격
