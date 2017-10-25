@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.16. https://www.inc.com/zoe-henry/fintech-startups-partner-with-gates-foundation-to-reach-unbanked.html: Fintech 신생 기업, 게이츠 재단과 파트너십을 맺어 아프리카와 아시아에서 수십억 달러에 도달
 - 2017.10.24. http://www.livebitcoinnews.com/ripple-team-improves-xrp-ledger-stability-scalability-new-update/: Ripple 팀, 새로운 업데이트로 XRP 원장 안정성 및 확장 성 개선
 - 2017.10.23. http://fortune.com/2017/10/23/bitcoin-ripple-brad-garlinghouse/: 리플이 진짜인가요? 세 번째로 가치있는 디지털 통화 뒤에 회사를 자세히 살펴보십시오.
 - 2017.10.19. http://biz.chosun.com/site/data/html_dir/2017/10/19/2017101901020.html: SBI홀딩스·구글, 블록체인 기업 투자 규모 1, 2위 (두 회사는 리플랩스와 긴밀한 관계를 유지중)
