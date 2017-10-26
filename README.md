@@ -22,6 +22,7 @@
 - 오케이코인(okcoin): [https://www.okcoin.com/](https://www.okcoin.com/)
 - 비트파이낸스(bitfinex): [https://www.bitfinex.com](https://www.bitfinex.com) - 해킹사례있음
 - 바이낸스(binance): [https://www.binance.com](https://www.binance.com)
+- 비트터크(bitturk): [https://bitturk.com/](https://bitturk.com/)
 
 ## 국내
 - 코빗(korbit): [https://korbit.co.kr](https://korbit.co.kr)
