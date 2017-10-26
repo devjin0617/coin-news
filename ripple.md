@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.25. http://www.creeppler.xyz/Ripple/tenitoshi/1: XRP 가격 상승 시나리오는? Ripple 회사 직원에게 들어 보았다!
 - 2017.10.26. https://coinpan.com/xrp/11058110: (커뮤니티글) XRP의 시장 약점과 과제
 - 2017.10.24. https://www.ainsliebullion.com.au/mobile/gold-silver-bullion-news/ripple-xrp-joins-the-crypto-offer/tabid/155/a/1650/default.aspx: 리플 (XRP)이 암호화 제안에 합류합니다.
 - 2017.10.25. https://steemit.com/kr/@seunglimdaddy/wirex-sbi: [해외의 가상화폐 이야기] Wirex와 SBI홀딩스의 일본내 비트코인 카드 출시 준비!!!
