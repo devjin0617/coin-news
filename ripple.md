@@ -74,6 +74,7 @@
 - 리플관련정리 개인블로그: http://polarizedlentium.tistory.com
 - Discord XRP 해외커뮤니티: https://discord.gg/C4xcYNN
 - 리플과거위키(공식도메인): https://wiki.ripple.com/Introduction_to_Ripple_for_Bitcoiners
+- Seoul XRP Meetup(2017년 11월 6일 월요일 18:00): https://www.meetup.com/ko-KR/meetup-group-RKJvRrMT/events/244531292/?eventId=244531292&_cookie-check=C-qfbRMHjoOUj_AC
 
 # 관련뉴스
 
