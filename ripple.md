@@ -79,6 +79,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.26. https://coinpan.com/xrp/11058110: (커뮤니티글) XRP의 시장 약점과 과제
 - 2017.10.24. https://www.ainsliebullion.com.au/mobile/gold-silver-bullion-news/ripple-xrp-joins-the-crypto-offer/tabid/155/a/1650/default.aspx: 리플 (XRP)이 암호화 제안에 합류합니다.
 - 2017.10.25. https://steemit.com/kr/@seunglimdaddy/wirex-sbi: [해외의 가상화폐 이야기] Wirex와 SBI홀딩스의 일본내 비트코인 카드 출시 준비!!!
 - 2017.10.16. https://www.inc.com/zoe-henry/fintech-startups-partner-with-gates-foundation-to-reach-unbanked.html: Fintech 신생 기업, 게이츠 재단과 파트너십을 맺어 아프리카와 아시아에서 수십억 달러에 도달
