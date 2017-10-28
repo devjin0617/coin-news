@@ -80,6 +80,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.27. https://www.ripplecoinnews.com/now-ripple-technology-and-xrp-are-closely-linked/amp: 현재 Ripple Technology와 XRP는 밀접하게 연결되어 있습니다.
 - 2017.10.26. https://twitter.com/crypty0720/status/923472092695207936: Beyond Blockchain 기술 프로그램의 보급 프로그램 (발췌) / xCurrent
 - 2017.10.25. http://www.creeppler.xyz/Ripple/tenitoshi/1: XRP 가격 상승 시나리오는? Ripple 회사 직원에게 들어 보았다!
 - 2017.10.26. https://coinpan.com/xrp/11058110: (커뮤니티글) XRP의 시장 약점과 과제
