@@ -80,7 +80,6 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
-- 2017.10.27. https://www.forbes.com/sites/willburns/2017/10/27/amazons-new-hq-creates-a-massive-ripple-in-the-marketing-cosmos/#1d96d9d462f8: 아마존의 새로운 본사가 마케팅 코스모스에서 엄청난 파문을 일으킨다.
 - 2017.09.13. http://m.itdaily.kr/news/articleView.html?idxno=84931: 데일리인텔리전스-SBI리플아시아, 블록체인 기술 제휴
 - 2017.10.27. https://www.ripplecoinnews.com/now-ripple-technology-and-xrp-are-closely-linked/amp: 현재 Ripple Technology와 XRP는 밀접하게 연결되어 있습니다.
 - 2017.10.26. https://twitter.com/crypty0720/status/923472092695207936: Beyond Blockchain 기술 프로그램의 보급 프로그램 (발췌) / xCurrent
