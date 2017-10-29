@@ -14,6 +14,10 @@ Stratis는 네이티브 C# 및 .Net 엔드-투-엔드 블록 체인 솔루션을
 
 # 뉴스기사 및 링크
 
+- 2017.10.25. https://steemit.com/crypto/@burnthamsterpub/stratis-breeze-wallet-beta-v0-2-0-a-first-look: Stratis Breeze Wallet Beta v0.2.0 - A First Look
+- 2017.10.23. https://stratisplatform.com/2017/10/23/breeze_beta_release/: Breeze Beta Release
+- 2017.10.14. https://www.youtube.com/watch?v=QettMWgonCE: Stratis Platform For Investors #5 - 1 Year Update From Stratis Headquarters In London - By Leon Fu
+- 2017.09.24. https://www.youtube.com/watch?v=Q_McNJ_o7Ik: 한국어자막 스트라티스 타이젠 인터뷰
 - 2017.10.14. https://medium.com/@Stratisplatform/product-development-update-a9dffde81f79: 제품 개발 업데이트
   - Breeze Wallet
   - Stratis MasterNodes
