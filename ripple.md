@@ -80,6 +80,11 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.04. https://coinpan.com/xrp/11989345: (커뮤니티) 리플 (Ripple) 가격 전망 (한국판 볼륨 분석가)
+- 2017.10.31. https://www.financemagnates.com/cryptocurrency/news/cryptocurrencynewssbi-holdings-outlines-plans-to-become-crypto-cornerstone/: SBI는 "기관 투자가를위한 cryptocurrency의 새로운 거래 기회"를 제공하고자합니다.
+- 2017.10.21. http://www.seouldk.com/61: 플로리다 투자자문그룹 팜비치그룹이 리플에 대한 투자를 권유하다
+  - http://www.livebitcoinnews.com/palm-beach-group-advises-clients-buy-xrp-next-leg/
+- 2017.10.31. https://www.coindesk.com/r3-corda-international-payments/: R3, Corda DLT Tech를 기반으로 한 국경 간 지급 플랫폼 발표
 - 2017.09.13. http://m.itdaily.kr/news/articleView.html?idxno=84931: 데일리인텔리전스-SBI리플아시아, 블록체인 기술 제휴
 - 2017.10.27. https://www.ripplecoinnews.com/now-ripple-technology-and-xrp-are-closely-linked/amp: 현재 Ripple Technology와 XRP는 밀접하게 연결되어 있습니다.
 - 2017.10.26. https://twitter.com/crypty0720/status/923472092695207936: Beyond Blockchain 기술 프로그램의 보급 프로그램 (발췌) / xCurrent
