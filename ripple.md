@@ -85,6 +85,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.07. http://www.sbigroup.co.jp/news/2017/1107_10872.html: 한국의DAYLI Financial Group Inc.데일리 금융 그룹에 대한 출자에 관한 소식
 - 2017.11.07. http://www.zdnet.co.kr/news/news_view.asp?artice_id=20171107093001&type=det&re=: 데일리금융그룹, 日 SBI그룹서 투자유치
 - 2017.11.06. https://www.bitcoinisle.com/2017/11/06/xrp-will-power-cross-border-transfers-between-the-us-and-mexico-in-2018/: XRP, 2018 년 미국과 멕시코 간 국경 간 이동 가능
 - 2017.11.06. http://ethereumworldnews.com/xrp-deflects-trump-reveals-transactions-us-mexico-will-happen-soon/: XRP는 트럼프를 빗나가게하고 미국과 멕시코 간의 거래는 곧 일어날 것입니다
