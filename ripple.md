@@ -85,6 +85,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.06. https://www.bitcoinisle.com/2017/11/06/xrp-will-power-cross-border-transfers-between-the-us-and-mexico-in-2018/: XRP, 2018 년 미국과 멕시코 간 국경 간 이동 가능
 - 2017.11.06. http://ethereumworldnews.com/xrp-deflects-trump-reveals-transactions-us-mexico-will-happen-soon/: XRP는 트럼프를 빗나가게하고 미국과 멕시코 간의 거래는 곧 일어날 것입니다
 - 2017.11.04. https://coinpan.com/xrp/11989345: (커뮤니티) 리플 (Ripple) 가격 전망 (한국판 볼륨 분석가)
 - 2017.10.31. https://www.financemagnates.com/cryptocurrency/news/cryptocurrencynewssbi-holdings-outlines-plans-to-become-crypto-cornerstone/: SBI는 "기관 투자가를위한 cryptocurrency의 새로운 거래 기회"를 제공하고자합니다.
