@@ -85,6 +85,8 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.10.31. http://www.cctvnews.co.kr/news/articleView.html?idxno=73656: [BIIC 2017] “IBM은 장밋빛 미래가 아닌, 현실적인 블록체인 활용 방안을 제시한다”
+  - 중간내용: 은행 간 이체 서비스 등에 활용이 모색되고 있는 블록체인 기반 결제 프로토콜인 리플(Ripple)이 이런 문제에 대한 좋은 사례다. 현재 스위프트 망을 사용하고 있는 외화송금 프로세스에서는 전체 수수료의 70%가 스위프트 이용에 사용되고 있다. 그러나 리플을 이용해 외화송금을 할 경우 수수료를 대폭 줄일 수 있을 것으로 기대되고 있다.
 - 2017.11.07. http://www.sbigroup.co.jp/news/2017/1107_10872.html: 한국의DAYLI Financial Group Inc.데일리 금융 그룹에 대한 출자에 관한 소식
 - 2017.11.07. http://www.zdnet.co.kr/news/news_view.asp?artice_id=20171107093001&type=det&re=: 데일리금융그룹, 日 SBI그룹서 투자유치
 - 2017.11.06. https://www.bitcoinisle.com/2017/11/06/xrp-will-power-cross-border-transfers-between-the-us-and-mexico-in-2018/: XRP, 2018 년 미국과 멕시코 간 국경 간 이동 가능
