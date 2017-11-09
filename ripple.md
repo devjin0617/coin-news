@@ -85,6 +85,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.04. https://www.reddit.com/r/Ripple/comments/7au6ee/banks_using_new_technology_from_13th_january_2018/?st=J9RU783X&sh=e88df983: 레딧) 2018 년 1 월 13 일부터 신기술을 사용하는 은행 !!!
 - 2017.11.09. https://www.eventbrite.com/e/ripples-interledger-workshop-san-francisco-tickets-37703671697: Ripple's Interledger Workshop San Francisco
 - 2017.10.31. http://www.cctvnews.co.kr/news/articleView.html?idxno=73656: [BIIC 2017] “IBM은 장밋빛 미래가 아닌, 현실적인 블록체인 활용 방안을 제시한다”
   - 중간내용: 은행 간 이체 서비스 등에 활용이 모색되고 있는 블록체인 기반 결제 프로토콜인 리플(Ripple)이 이런 문제에 대한 좋은 사례다. 현재 스위프트 망을 사용하고 있는 외화송금 프로세스에서는 전체 수수료의 70%가 스위프트 이용에 사용되고 있다. 그러나 리플을 이용해 외화송금을 할 경우 수수료를 대폭 줄일 수 있을 것으로 기대되고 있다.
