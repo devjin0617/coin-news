@@ -85,6 +85,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.09. http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=025&aid=0002770386: 고란의 어쩌다 투자 - 애증의 암호화폐 리플…“매물 쏟아내 가격 폭락하는 일 없을 것”
 - 2017.11.04. https://www.reddit.com/r/Ripple/comments/7au6ee/banks_using_new_technology_from_13th_january_2018/?st=J9RU783X&sh=e88df983: 레딧) 2018 년 1 월 13 일부터 신기술을 사용하는 은행 !!!
 - 2017.11.09. https://www.eventbrite.com/e/ripples-interledger-workshop-san-francisco-tickets-37703671697: Ripple's Interledger Workshop San Francisco
 - 2017.10.31. http://www.cctvnews.co.kr/news/articleView.html?idxno=73656: [BIIC 2017] “IBM은 장밋빛 미래가 아닌, 현실적인 블록체인 활용 방안을 제시한다”
