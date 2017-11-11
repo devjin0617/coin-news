@@ -87,6 +87,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.10. https://ripple.com/insights/the-worlds-biggest-banks-lead-the-blockchain-charge/: Blocktain Charge를 이끌고있는 세계 최대 은행
 - 2017.11.11. http://coinpost.jp/?p=8709: 리플 공식 도쿄 미트 업 미디어 취재 질의 응답 정리
 - 2017.11.01. http://coinpost.jp/?p=6299: 가상 화폐 거래소 SBI 가상 카렌 시즈 - 최신 뉴스 및 취급 통화를 수시로 업데이트!
 - 2017.11.09. http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=025&aid=0002770386: 고란의 어쩌다 투자 - 애증의 암호화폐 리플…“매물 쏟아내 가격 폭락하는 일 없을 것”
