@@ -87,6 +87,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.06.04. http://www.livebitcoinnews.com/mastercard-experiments-ripple-technology-cross-border-b2b-payments/: 국경 간 B2B 결제를위한 리플 기술을 사용한 마스터 카드 실험
 - 2017.11.10. https://ripple.com/insights/the-worlds-biggest-banks-lead-the-blockchain-charge/: Blocktain Charge를 이끌고있는 세계 최대 은행
 - 2017.11.11. http://coinpost.jp/?p=8709: 리플 공식 도쿄 미트 업 미디어 취재 질의 응답 정리
 - 2017.11.01. http://coinpost.jp/?p=6299: 가상 화폐 거래소 SBI 가상 카렌 시즈 - 최신 뉴스 및 취급 통화를 수시로 업데이트!
