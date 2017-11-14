@@ -87,6 +87,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.12. https://steemit.com/crypto/@spotting-car/ripple-s-ceo-on-cryptocurrencies-and-the-future-of-xrp-20171112t132225266z: Ripple의 CEO: Cryptocurrencies 및 XRP의 미래
 - 2017.11.13. https://www.profitconfidential.com/cryptocurrency/ripple/xrp-price-forecast-13-nov/: Ripple Price Forecast : XRP가 "FOMO"로 부상 할 것이라는 3 가지 징조
 - 2017.11.13. http://m.biz.chosun.com/svc/article.html?contid=2017111300447: [리포트 인터뷰] 김재윤 "블록체인, 우버·에어비앤비 위협할 것"
 - 2017.06.04. http://www.livebitcoinnews.com/mastercard-experiments-ripple-technology-cross-border-b2b-payments/: 국경 간 B2B 결제를위한 리플 기술을 사용한 마스터 카드 실험
