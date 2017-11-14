@@ -87,6 +87,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.13. https://xrphodor.wordpress.com/2017/11/13/xrp-supply-pre-escrow-analysis/: XRP 공급 : 사전 에스크로 분석
 - 2017.11.13. https://ripple.com/insights/ripple-hosts-worlds-central-banks-to-explore-next-generation-of-payments/: 리플, 다음 세대의 지불을 탐색 할 수있는 세계 중앙 은행 호스트
 - 2017.11.14. http://ripple.2chblog.jp/archives/26964342.html: 씨티 그룹 CEO의 발언이 화제!
 - 2017.11.12. https://steemit.com/crypto/@spotting-car/ripple-s-ceo-on-cryptocurrencies-and-the-future-of-xrp-20171112t132225266z: Ripple의 CEO: Cryptocurrencies 및 XRP의 미래
