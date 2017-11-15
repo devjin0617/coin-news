@@ -9,6 +9,14 @@
 
 - - -
 
+## 공식 사이트
+
 - 공식홈페이지: https://akasha.world/
 - 공식트위터: https://twitter.com/AkashaProject
 - 공식블로그: https://blog.akasha.world/
+
+- - -
+
+## 정보
+
+- https://blog.akasha.world/2017/11/14/new-horizons/: DEVCON3 아캬샤 발표내용
