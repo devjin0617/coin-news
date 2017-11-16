@@ -87,6 +87,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.16. https://www.coindesk.com/american-express-opens-first-blockchain-corridor-ripple-tech/?utm_content=buffer3b967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer: 아메리칸 익스프레스, 리플 테크와 함께 최초의 블록 체인 지대 개설
 - 2017.09.11. https://www.cnbc.com/video/2017/09/11/ripple-ceo-brad-garlinghouse-on-the-future-of-cryptocurrencies.html: 리플 CEO 인 Brad Garlinghouse, cryptocurrencies의 미래 (영상)
 - 2017.11.14. https://www.cnbc.com/2017/11/14/reuters-america-exclusive-u-s-banks-speed-up-with-first-new-payment-system-in-40-years.html: 독점적 인 미국 은행, 40 년 만에 처음으로 새로운 지불 시스템으로 속도 향상 (금응시장 변화관련 내용)
 - 2017.11.15. https://m.facebook.com/story.php?story_fbid=1210957989005339&id=702890716478738: CNBC LifeHacksLive 리플CEO 브레드 갈링하우스 라이브 인터뷰 영상
