@@ -87,6 +87,10 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.09.11. https://www.cnbc.com/video/2017/09/11/ripple-ceo-brad-garlinghouse-on-the-future-of-cryptocurrencies.html: 리플 CEO 인 Brad Garlinghouse, cryptocurrencies의 미래 (영상)
+- 2017.11.14. https://www.cnbc.com/2017/11/14/reuters-america-exclusive-u-s-banks-speed-up-with-first-new-payment-system-in-40-years.html: 독점적 인 미국 은행, 40 년 만에 처음으로 새로운 지불 시스템으로 속도 향상 (금응시장 변화관련 내용)
+- 2017.11.15. https://m.facebook.com/story.php?story_fbid=1210957989005339&id=702890716478738: CNBC LifeHacksLive 리플CEO 브레드 갈링하우스 라이브 인터뷰 영상
+- 2017.11.15. http://www.businessinsider.com/london-block-exchange-launches-prepaid-cryptocurrency-debit-card-2017-11: 런던 신생 기업이 비트코인 및 이더리움를 사용할 수있는 직불 카드를 출시했습니다. (본문에 리플도 포함되어 있습니다)
 - 2017.11.13. https://xrphodor.wordpress.com/2017/11/13/xrp-supply-pre-escrow-analysis/: XRP 공급 : 사전 에스크로 분석
 - 2017.11.13. https://ripple.com/insights/ripple-hosts-worlds-central-banks-to-explore-next-generation-of-payments/: 리플, 다음 세대의 지불을 탐색 할 수있는 세계 중앙 은행 호스트
 - 2017.11.14. http://ripple.2chblog.jp/archives/26964342.html: 씨티 그룹 CEO의 발언이 화제!
