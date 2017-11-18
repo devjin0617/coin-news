@@ -88,6 +88,12 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.17. https://mybroadband.co.za/news/business/237886-central-banks-will-adopt-blockchain-technology-ripple-ceo.html: 중앙 은행, 블록 체인 기술 도입 - Ripple CEO
+- 2017.11.17. https://twitter.com/olegworldcool/status/931460709879369728: (루머/찌라시) 구글이 리플넷 가입 소문
+- 2017.11.17. https://www.profitconfidential.com/cryptocurrency/ripple/xrp-price-forecast-17-nov/: Ripple Price Forecast : Ripple은 XRP가 "나중에 재생에 들어갈 것"
+- 2017.11.16. https://www.the4thwave.co.kr/index.php/2017/11/16/alt11161/: 아메리칸 익스프레스와 샌탠더 은행, 블록체인을 통한 국제 송금을 위해 리플과 협력
+- 2017.11.17. https://coinpan.com/xrp/13828127: (커뮤니티) 리플넷과 리플 설명 글 (리플 솔루션 간략설명)
+- 2017.11.16. http://fortune.com/2017/11/16/amex-payments-ripple-blockchain/: 아메리칸 익스프레스는 리플과 함께 블록 체인 기반 지불에 들어갑니다
 - 2017.11.17. https://ripple.com/insights/american-express-joins-ripplenet-giving-visibility-and-speed-to-global-commercial-payments/: American Express, RippleNet 가입 - 글로벌 상업 지불에 가시성과 속도 제공
 - 2017.11.16. https://www.cnbc.com/2017/11/16/american-express-santander-team-up-with-ripple-on-blockchain-platform.html: 아메리칸 익스프레스, 산탄데르와 블록 체인을 통한 국경 간 지급을 위해 Ripple과 협력
 - 2017.11.16. https://www.coindesk.com/american-express-opens-first-blockchain-corridor-ripple-tech/?utm_content=buffer3b967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer: 아메리칸 익스프레스, 리플 테크와 함께 최초의 블록 체인 지대 개설
