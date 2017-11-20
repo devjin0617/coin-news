@@ -88,6 +88,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.18. https://www.profitconfidential.com/cryptocurrency/ripple/how-can-i-buy-ripple-xrp/: Ripple XRP를 구입하려면 어떻게해야합니까?
 - 2017.11.17. https://mybroadband.co.za/news/business/237886-central-banks-will-adopt-blockchain-technology-ripple-ceo.html: 중앙 은행, 블록 체인 기술 도입 - Ripple CEO
 - 2017.11.17. https://twitter.com/olegworldcool/status/931460709879369728: (루머/찌라시) 구글이 리플넷 가입 소문
 - 2017.11.17. https://www.profitconfidential.com/cryptocurrency/ripple/xrp-price-forecast-17-nov/: Ripple Price Forecast : Ripple은 XRP가 "나중에 재생에 들어갈 것"
