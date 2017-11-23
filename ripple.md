@@ -354,7 +354,7 @@
 
 - 카카오톡 오픈채팅에서 리플(XRP)의 가치를 공유할 수 있습니다. (리플포함 아무말대잔치, 뉴스제보 가능)
   - 링크: https://open.kakao.com/o/gpDq7mA
-  - 비밀번호: paychan
+  - 비밀번호: huobipro
   - 필독규칙(공지): https://github.com/devjin0617/coin-news/blob/master/memo/ripple-rule.md
 
 - 리플 방향성/기술적검증 위해 여러자료를 공유할 수 있습니다. (차트는 관심없는 방)
