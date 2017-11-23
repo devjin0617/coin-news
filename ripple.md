@@ -55,6 +55,16 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.22. https://twitter.com/bgarlinghouse/status/933437163445743616: (리플CEO 트윗) 중국거래소 Huobi_pro 최초 상장 소식
+- 2017.11.22. https://ripple.com/insights/ripple-powered-instant-payment-services-now-live-axis-bank-rakbank-standard-chartered/: Axis Bank, RAKBANK 및 Standard Chartered와 함께 리플 전원 공급 방식의 즉시 지불 서비스가 제공됩니다.
+  - http://www.bobsguide.com/guide/news/2017/Nov/23/ripple-powered-instant-payment-services-now-live-with-axis-bank-rakbank-and-standard-chartered/
+- 2017.11.23. https://coinpan.com/xrp/14745234: (커뮤니티) 3개 은행에서 리플사용에 들어갔답니다
+- 2017.11.22. https://t.co/xO4TYp0CAS: 오늘 우리(casinocoin)는 카지노 성장을 위해 CasinoCoin을 배치 할 Ripple 기반 블록 체인으로 동전 스왑을 발표했습니다.
+- 2017.11.21. https://www.europeanpaymentscouncil.eu/news-insights/news/instant-credit-transfers-are-now-reality-eight-european-countries: 유럽의 8 개국에서 인스턴트 신용 이체가 현실화되었습니다.
+- 2017.11.21. https://www.cryptocoinsnews.com/uaes-rak-bank-partners-ripple-instant-blockchain-payments-india/: UAE의 RAK Bank, 인도에 대한 인스턴트 Blockchain 지불을 위해 리플
+- 2017.11.16. https://www.xrpchat.com/topic/2008-dcg-and-ripple-present-the-future-of-payments/: (XRP Chat) DCG 및 리플 선물의 미래
+- 2017.11.21. https://www.coindesk.com/bitlicense-architect-ben-lawsky-joins-ripple-board/: BitLicense Architect Ben Lawsky가 리플 보드에 합류했습니다.
+- 2017.11.20. https://www.zb.com/i/blog?item=24: 중국 ZB거래소 상장공지 - 리플 거래에 관한 고지
 - 2017.11.19. https://www.reddit.com/r/Ripple/comments/7e73o9/why_dont_we_promote_xrp_as_a_p2p_currency_why/: (레딧) XRP를 P2P 통화로 홍보하지 않는 이유는 무엇입니까? 왜 그것은 엄격하게 B2B 여야 만합니까?
 - 2017.11.18. https://www.profitconfidential.com/cryptocurrency/ripple/how-can-i-buy-ripple-xrp/: Ripple XRP를 구입하려면 어떻게해야합니까?
 - 2017.11.17. https://mybroadband.co.za/news/business/237886-central-banks-will-adopt-blockchain-technology-ripple-ceo.html: 중앙 은행, 블록 체인 기술 도입 - Ripple CEO
