@@ -65,6 +65,7 @@
 - 2017.11.27. http://www.rippleworks.org/#our-team: 리플랩스 초기 CEO 크리스 라센이 운영하는 리플웍스 팀소개 페이지 (크리스 라센은 떠나지 않았습니다)
 - 2017.11.25. http://coinpost.jp/?p=9223: Ripple 사의 CTO Stephan Thomas 씨 인터뷰
 - 2017.09.24. http://polarizedlentium.tistory.com/236: 비트코인, 이더리움과 비교한 리플의 강점
+- 2017.11.24. https://news.coin.z.com/2017/11/417/: GMO코인(일본거래소) 상장 공지 - 11/29 리플 취급 개시 및 정기 점검 안내
 - 2017.11.22. https://twitter.com/bgarlinghouse/status/933437163445743616: (리플CEO 트윗) 중국거래소 Huobi_pro 최초 상장 소식
 - 2017.11.22. https://ripple.com/insights/ripple-powered-instant-payment-services-now-live-axis-bank-rakbank-standard-chartered/: Axis Bank, RAKBANK 및 Standard Chartered와 함께 리플 전원 공급 방식의 즉시 지불 서비스가 제공됩니다.
   - http://www.bobsguide.com/guide/news/2017/Nov/23/ripple-powered-instant-payment-services-now-live-with-axis-bank-rakbank-and-standard-chartered/
