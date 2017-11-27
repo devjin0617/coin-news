@@ -55,6 +55,16 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.11.27. https://www.medianama.com/2017/11/223-axis-bank-blockchain-ripple/: Axis Bank는 Ripple을 사용하여 블록 체인에 대한 해외 결제를 시작합니다.
+- 2017.11.26 https://www.ecobank.com/personal-banking/payments-transfers/rapidtransfer: ECO은행 RapidTransfer관련 페이지. 빌 게이츠재단과 관련가능성
+- 2017.11.26. https://coinpan.com/xrp/15479793: (커뮤니티) SBI 자체 통화 "S 코인 '을 발표 / 리플의 차이를 자세하게 해설
+- 2017.10.14. http://www.cryptoquicknews.com/ripple-unique-strategy-take-market-bank-adoption/: 리플, 시장 은행 인수를 독점하는 전략
+- 2017.10.26. https://www.proshareng.com/news/Capital%20Market/Ecobank-receives-$6m-from-Bill-Gates-Foundation/9136: Ecobank는 빌 게이츠 재단으로부터 6 백만 달러를받습니다.
+  - 관련트랜젝션: https://bithomp.com/explorer/rN5uN7aibsHipVixLEh7LWs7tEhxNnq4V6
+- 2017.10.27. https://brunch.co.kr/@fvsmarketing/19: 하왈라로 바라본 리플의 과거와 미래
+- 2017.11.27. http://www.rippleworks.org/#our-team: 리플랩스 초기 CEO 크리스 라센이 운영하는 리플웍스 팀소개 페이지 (크리스 라센은 떠나지 않았습니다)
+- 2017.11.25. http://coinpost.jp/?p=9223: Ripple 사의 CTO Stephan Thomas 씨 인터뷰
+- 2017.09.24. http://polarizedlentium.tistory.com/236: 비트코인, 이더리움과 비교한 리플의 강점
 - 2017.11.22. https://twitter.com/bgarlinghouse/status/933437163445743616: (리플CEO 트윗) 중국거래소 Huobi_pro 최초 상장 소식
 - 2017.11.22. https://ripple.com/insights/ripple-powered-instant-payment-services-now-live-axis-bank-rakbank-standard-chartered/: Axis Bank, RAKBANK 및 Standard Chartered와 함께 리플 전원 공급 방식의 즉시 지불 서비스가 제공됩니다.
   - http://www.bobsguide.com/guide/news/2017/Nov/23/ripple-powered-instant-payment-services-now-live-with-axis-bank-rakbank-and-standard-chartered/
