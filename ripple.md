@@ -60,7 +60,7 @@
 - 2017.11.26. https://coinpan.com/xrp/15479793: (커뮤니티) SBI 자체 통화 "S 코인 '을 발표 / 리플의 차이를 자세하게 해설
 - 2017.10.14. http://www.cryptoquicknews.com/ripple-unique-strategy-take-market-bank-adoption/: 리플, 시장 은행 인수를 독점하는 전략
 - 2017.10.26. https://www.proshareng.com/news/Capital%20Market/Ecobank-receives-$6m-from-Bill-Gates-Foundation/9136: Ecobank는 빌 게이츠 재단으로부터 6 백만 달러를받습니다.
-  - 관련트랜젝션: https://bithomp.com/explorer/rN5uN7aibsHipVixLEh7LWs7tEhxNnq4V6
+  - 관련트랜젝션: https://bithomp.com/explorer/rN5uN7aibsHipVixLEh7LWs7tEhxNnq4V6
 - 2017.10.27. https://brunch.co.kr/@fvsmarketing/19: 하왈라로 바라본 리플의 과거와 미래
 - 2017.11.27. http://www.rippleworks.org/#our-team: 리플랩스 초기 CEO 크리스 라센이 운영하는 리플웍스 팀소개 페이지 (크리스 라센은 떠나지 않았습니다)
 - 2017.11.25. http://coinpost.jp/?p=9223: Ripple 사의 CTO Stephan Thomas 씨 인터뷰
