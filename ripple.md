@@ -55,6 +55,19 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
+- 2017.12.01. http://coinpost.jp/?p=9650: SBI 가상 카렌 시즈와 SBI MAX (가칭)의 오픈 일정 발표
+- 2017.11.27. http://fortune.com/2017/11/28/arrington-xrp/: Michael Arrington, Ripple의 XRP로 평가 될 1 억 달러 규모의 새로운 헤지 펀드 보유
+- 2017.12.01. https://www.ecb.europa.eu/pub/conferences/shared/pdf/20171130_digital_transformation_conf/Conference_brochure_20171130.pdf: 소매 지불 생태계의 디지털 전환 자료
+- 2017.11.30. https://www.sbivc.co.jp/adv/: SBI 거래소 오픈관련 선행예약 공지
+- 2017.11.27. https://www.ripplecoinnews.com/gmo-coins-has-added-ripple-in-its-coin-offerings: GMOCOIN에 동전 주화에 리플이 추가됨
+- 2017.11.29. https://themarketmogul.com/ripple-xrp-shaky-foundations/: 리플 : 흔들리는 XRP의 가치 제안의 기초
+- 2017.11.27. http://oracletimes.com/why-ripple-xrp-litecoin-ltc-and-monero-xmr-will-shoot-to-the-moon-in-2018/: 왜 리플 (XRP), Litecoin (LTC) 및 Monero (XMR)가 2018 년에 달에 쏠 것인가
+- 2017.11.28. https://www.coindesk.com/techcrunch-founder-arrington-raising-100-million-ripple-hedge-fund/: TechCrunch 창립자 Arrington, 1 억 달러짜리 XRP 기금 모금
+- 2017.11.27. http://techstory.in/axis-bank-blockchain-ripple-2017/: Axis Bank, 소매 및 기업 고객을위한 블록 체인 기반의 리플 전력 식 즉시 결제 서비스 출시
+- 2017.11.28. https://www.xrpchat.com/topic/12197-btcxindia-large-increase-in-volumeprice/: BTCXindia 볼륨 / 가격의 큰 증가
+- 2017.11.28. https://cryptocalendar.pro/event/295: 리플 (XRP) - 컨센서스 : CoinDesk의 2017 회의 투자
+- 2017.11.24. https://www.fool.com/investing/2017/11/24/move-over-bitcoin-and-ethereum-make-way-for-ripple.aspx: 이동, Bitcoin 및 Ethereum - 리플을위한 길 만들기
+- 2017.11.25. http://www.businessinsider.com/50-startups-to-boom-in-2018-according-to-vcs-2017-11/#zume-pizza-robots-making-pizza-7: 벤처 캐피탈에 따르면 2018 년에 붐을 일으킬 50 개의 신생 기업 (리플랩스 포함)
 - 2017.11.27. https://www.medianama.com/2017/11/223-axis-bank-blockchain-ripple/: Axis Bank는 Ripple을 사용하여 블록 체인에 대한 해외 결제를 시작합니다.
 - 2017.11.26 https://www.ecobank.com/personal-banking/payments-transfers/rapidtransfer: ECO은행 RapidTransfer관련 페이지. 빌 게이츠재단과 관련가능성
 - 2017.11.26. https://coinpan.com/xrp/15479793: (커뮤니티) SBI 자체 통화 "S 코인 '을 발표 / 리플의 차이를 자세하게 해설
