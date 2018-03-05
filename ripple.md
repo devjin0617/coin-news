@@ -55,7 +55,7 @@
 
 > 뉴스를 찾은 날짜기준으로 최신순 정렬입니다.
 
-- https://xrp.jincode.me/: 리플정보들은 여기에 올라올 예정입니다. (현재 베타서비스진행중)
+- http://ripple.jincode.me/: 리플정보들은 여기에 올라올 예정입니다. (현재 베타서비스진행중)
 - 2017.12.01. http://coinpost.jp/?p=9650: SBI 가상 카렌 시즈와 SBI MAX (가칭)의 오픈 일정 발표
 - 2017.11.27. http://fortune.com/2017/11/28/arrington-xrp/: Michael Arrington, Ripple의 XRP로 평가 될 1 억 달러 규모의 새로운 헤지 펀드 보유
 - 2017.12.01. https://www.ecb.europa.eu/pub/conferences/shared/pdf/20171130_digital_transformation_conf/Conference_brochure_20171130.pdf: 소매 지불 생태계의 디지털 전환 자료
